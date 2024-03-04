@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paschalis</h1>
+<h1 align="center">Hi 👋, I'm Paschalis <a href="https://www.linkedin.com/in/paschalis-moschogiannis-38433655/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a></h1>
 <h3 align="center">Bachelor's degree in Computer Science | Master's student in Electrical Engineering</h3>
 <p align="center">
 I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <strong>Openshift</strong>
@@ -30,9 +30,6 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
 - **Other**: Docker, Kubernetes, tmux, vim
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Paschalis"><img src="https://komarev.com/ghpvc/?username=Paschalis" alt="Profile Views"></a>
   <a href="https://github-readme-stats.vercel.app/api?username=Paschalis&show_icons=true"><img src="https://github-readme-stats.vercel.app/api?username=Paschalis&show_icons=true" alt="GitHub Stats"></a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Paschalis"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paschalis" alt="Top Languages"></a>
-  <a href="https://activity-graph.herokuapp.com/graph?username=Paschalis"><img src="https://activity-graph.herokuapp.com/graph?username=Paschalis" alt="Activity Graph"></a>
-  <a href="https://www.linkedin.com/in/paschalis-moschogiannis-38433655/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
