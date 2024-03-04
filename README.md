@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Paschalis Moschogiannis</h1>
+<h1 align="center">Hi 👋, I'm Paschalis</h1>
 <h3 align="center">Bachelor's degree in Computer Science | Master's student in Electrical Engineering</h3>
 <p align="center">
-I’m currently learning **CCNA, Kubernetes, Openshift**
+- I’m currently learning **CCNA, Kubernetes, Openshift**
 </p>
 
 
@@ -18,9 +18,6 @@ I’m currently learning **CCNA, Kubernetes, Openshift**
   <a href="https://www.kernel.org/" target="_blank" rel="noreferrer"> <img src="https://www.kernel.org/theme/images/logos/tux.png" alt="linux" width="40" height="40"/> </a>
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.latex-project.org/favicon.ico" alt="latex" width="40" height="40"/> </a>
 </p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paschalis-moschogiannis&show_icons=true&locale=en&layout=compact" alt="paschalis-moschogiannis" /></p>
 
 ## Technical Skills
 
