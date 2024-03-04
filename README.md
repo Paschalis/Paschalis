@@ -28,3 +28,11 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
 - **Operating Systems**: Linux
 - **Network**: Wireshark, Nmap, nmcli, tcpdump, Netcat, Hping, Wi-Fi Analyzer (like wavemon, iperf3, iw/iwconfig)
 - **Other**: Docker, Kubernetes, tmux, vim
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Paschalis" alt="Profile Views">
+  <img src="https://github-readme-stats.vercel.app/api?username=Paschalis&show_icons=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paschalis" alt="Top Languages">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Paschalis" alt="Activity Graph">
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/paschalis-moschogiannis-38433655/])](https://www.linkedin.com/in/paschalis-moschogiannis-38433655/)
+</p>
