@@ -33,7 +33,7 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
 - **Other**: Docker, Kubernetes, tmux, vim
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=Paschalis&show_icons=true&layout=compact"><img src="https://github-readme-stats.vercel.app/api?username=Paschalis&show_icons=true&layout=compact" alt="GitHub Stats"></a>
+  <a href="https://github-readme-stats.vercel.app/api?username=Paschalis&show_icons=true&hide_title=true"><img src="https://github-readme-stats.vercel.app/api?username=Paschalis&show_icons=true&hide_title=true" alt="GitHub Stats"></a>
 
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Paschalis&layout=compact&hide=html,css"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paschalis&layout=compact&hide=html,css" alt="Top Languages"></a>
 
