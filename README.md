@@ -23,6 +23,60 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
   
 </p>
 
+## Projects
+
+1. **Sunrise-Sunset Automatic Dimmer**
+   - Description: This system allows for precise dimming control through an IRF740 Power MOSFET, driven by user-configurable timers and a 4n35 optocoupler for seamless sunrise and sunset simulation, optimizing lighting conditions in poultry farms.
+   - Tools used: Arduino IDE , ATmega328P , KiCad
+   - GitHub Repository: [https://github.com/Paschalis/SunriseSunsetACDimmer](https://github.com/Paschalis/SunriseSunsetACDimmer)
+
+2. **VHF Communications Transceiver Control System**
+   - Description: Arduino-based control system for VHF transceivers, featuring keypad input, 7-segment display output, and BCD frequency encoding for enhanced communication efficiency. 
+   - Tools used: Arduino IDE , ATmega2560 , Shift Registers 74HC595, 74HC165
+   - GitHub Repository: [https://github.com/Paschalis/VHF-Transceiver-Control-System](https://github.com/Paschalis/VHF-Transceiver-Control-System)
+
+3. **Design to PCB**
+   - Description: A showcase of custom PCB designs and footprints, featuring KiCad schematics and PCB layouts initially designed with CAD modeling, along with unique footprints derived from Inkscape illustrations, converted for KiCad use. 
+   - Tools used: KiCad, FreeCAD, Inkscape
+   - GitHub Repository: [https://github.com/Paschalis/Design2PCB](https://github.com/Paschalis/Design2PCB)   
+
+## Academic Projects
+  
+  1. **Voice Processing and Synthesis Project**
+     - Description: Advanced Topics in Speech and Language Processing.
+     - Tools used: MATLAB, Praat, SoX
+     - GitHub Repository: [https://github.com/Paschalis/VoiceMeld](https://github.com/Paschalis/VoiceMeld)
+  
+  2. **House Renting Management System Java Application**
+     - Description: This repository contains the source code for a Java application developed as a part of the PGS602 course (Advanced Software Design Topics) at the University of Thessaly. The application is designed to manage house renting activities.
+     - Tools used: JDBC, MySQL, JavaMail, JavaFX
+     - GitHub Repository: [This repository is currently private.](https://github.com/Paschalis)
+
+  3. **Computer Organization**
+     - Description: Verilog Simulation with Icarus Verilog (iverilog)
+     - Tools used: iverilog, vvp, gtkwave
+     - GitHub Repository: [https://github.com/Paschalis/Computer-Organization-Verilog-GTKWave](https://github.com/Paschalis/Computer-Organization-Verilog-GTKWave)
+
+  4. **VLSI Design Course Materials**
+     - Description: VLSI Design, focusing on CMOS gate energy use and design with MicroWind and PSpice. It delves into inverter construction, complex logic with Euler paths, and delay analysis. 
+     - Tools used: MicroWind, PSpice
+     - GitHub Repository: [https://github.com/Paschalis/VLSI-Design](https://github.com/Paschalis/VLSI-Design)
+
+  5. **FORT500 Compiler**
+     - Description: Development of a compiler for FORT500, a high-level language resembling FORTRAN with structured commands and record structures, supporting recursive subprogram definition.
+     - Tools used: flex, bison
+     - GitHub Repository: [https://github.com/Paschalis/fort500-compiler](https://github.com/Paschalis/fort500-compiler)
+
+  6. **Digital Logic Design Laboratory Exercises**
+     - Description: Lab exercises for the EY121 Digital Logic Design course, covering simulations of logic gates to sequential circuits. 
+     - Tools used: Multisim
+     - GitHub Repository: [https://github.com/Paschalis/Digital-Logic-Design](https://github.com/Paschalis/Digital-Logic-Design)
+
+  7. **MIPS Assembly Exercises**
+     - Description: MIPS Assembly Exercises
+     - Tools used: spim
+     - GitHub Repository: [https://github.com/Paschalis/ASM-MIPS-Assembly](https://github.com/Paschalis/ASM-MIPS-Assembly)
+     
 ## Technical Skills
 
 - **Programming Skills**: Java (JDBC, JavaFX, JavaMail), C, MySQL, SQL, CSS, System Calls, Git, GStreamer
