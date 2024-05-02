@@ -25,20 +25,53 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
 
 ## Projects
 
+1. **Design to PCB**
+   - Description: A showcase of custom PCB designs and footprints, featuring KiCad schematics and PCB layouts initially designed with CAD modeling, along with unique footprints derived from Inkscape illustrations, converted for KiCad use. 
+   - Tools used: KiCad, FreeCAD, Inkscape
+   - GitHub Repository: [https://github.com/Paschalis/Design2PCB](https://github.com/Paschalis/Design2PCB) 
+
+2. **Morse Code Converter**
+   - Description: A terminal-based Morse code converter tool for PC, implemented in both C and C++. This repository serves as a reference implementation for a similar project targeting microcontrollers, the [MCU-Morse-Code-Decoder](https://github.com/Paschalis/MCU-Morse-Code-Decoder). 
+   - Tools used: C, C++
+   - GitHub Repository: [https://github.com/Paschalis/Morse-Code-Converter](https://github.com/Paschalis/Morse-Code-Converter)    
+
+#### <div align="center">Projects with the Atmel (now Microchip) MCUs (ATmega328P, ATmega2560, ATtiny85)</div>
+
 1. **Sunrise-Sunset Automatic Dimmer**
    - Description: This system allows for precise dimming control through an IRF740 Power MOSFET, driven by user-configurable timers and a 4n35 optocoupler for seamless sunrise and sunset simulation, optimizing lighting conditions in poultry farms.
-   - Tools used: Arduino IDE , ATmega328P , KiCad
+   - Tools used: Arduino IDE, ATmega328P, KiCad
    - GitHub Repository: [https://github.com/Paschalis/SunriseSunsetACDimmer](https://github.com/Paschalis/SunriseSunsetACDimmer)
 
 2. **VHF Communications Transceiver Control System**
    - Description: Arduino-based control system for VHF transceivers, featuring keypad input, 7-segment display output, and BCD frequency encoding for enhanced communication efficiency. 
-   - Tools used: Arduino IDE , ATmega2560 , Shift Registers 74HC595, 74HC165
+   - Tools used: Arduino IDE, ATmega2560, Shift Registers 74HC595, 74HC165
    - GitHub Repository: [https://github.com/Paschalis/VHF-Transceiver-Control-System](https://github.com/Paschalis/VHF-Transceiver-Control-System)
+   
+3. **Hardware Login Key** ![Under Construction](https://img.shields.io/badge/status-in%20progress-green)
+   - Description: This project provides a simple solution for securely logging into a system or website using a hardware key. By pressing a physical button connected to an ATtiny85 microcontroller, users can automate the login process, reducing the risk of password exposure.
+   - Tools used: ATtiny85, Arduino as ISP, KiCad, FreeCAD
+   - GitHub Repository: [https://github.com/Paschalis/Hardware-Login-Key](https://github.com/Paschalis/Hardware-Login-Key)
 
-3. **Design to PCB**
-   - Description: A showcase of custom PCB designs and footprints, featuring KiCad schematics and PCB layouts initially designed with CAD modeling, along with unique footprints derived from Inkscape illustrations, converted for KiCad use. 
-   - Tools used: KiCad, FreeCAD, Inkscape
-   - GitHub Repository: [https://github.com/Paschalis/Design2PCB](https://github.com/Paschalis/Design2PCB)   
+
+
+#### <div align="center">Projects with the ST MCUs (STM32F103C8, STM32F446RE)</div>
+  
+1. **Agriculture Sensor Integration Project** ![Under Construction](https://img.shields.io/badge/status-in%20progress-green)
+   - Description: Demonstrates the integration of various sensors commonly used in agriculture applications on a STM32 microcontroller platform. 
+   - Tools used: STM32 (STM32F103C8, STM32F446RE), STM32CubeIDE
+   - GitHub Repository: [https://github.com/Paschalis/STM32-Agriculture](https://github.com/Paschalis/STM32-Agriculture)  
+
+
+2. **STM32 Info Monitor** ![Under Construction](https://img.shields.io/badge/status-in%20progress-green)
+   - Description: An STM32 based USB information monitor with an SPI-connected 2-inch IPS LCD display. The project enables communication with a connected PC via USB CDC and displays system information such as hostname, kernel, IP address and CPU usage on the LCD screen.
+   - Tools used: STM32 (STM32F103C8, STM32F446RE), STM32CubeIDE, KiCad, FreeCAD
+   - GitHub Repository: [https://github.com/Paschalis/STM32-InfoMonitor](https://github.com/Paschalis/STM32-InfoMonitor)  
+
+#### <div align="center">Projects with the Espressif Systems MCUs (ESP32-S, ESP8266)</div>
+1. **Feline Watchdog: Missing Cat Alert System** ![Under Construction](https://img.shields.io/badge/status-in%20progress-green)
+   - Description: An ESP32-based system to alert you when your cat goes missing. Monitors Wi-Fi connection between your cat's collar-mounted ESP32 device and a Raspberry Pi. Notifications sent to your iOS or Android device using ntfy and Docker. Peace of mind for cat owners.
+   - Tools used: ESP32-S, Raspberry Pi, KiCad, FreeCAD
+   - GitHub Repository: [https://github.com/k-antoniou/FelineWatchdog](https://github.com/k-antoniou/FelineWatchdog)      
 
 ## Academic Projects
   
@@ -83,7 +116,7 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
 - **Electronics**: Knowledge of electronics components and circuits, KiCad
 - **Embedded Systems**: Jetson Nano
 - **IoT Protocols**: Utilizing IoT protocols such as MQTT, CoAP, and HTTP
-- **Microcontroller/Processor Knowledge**: ATmega328P, ATmega2560, ESP32, ESP8266, RP2040
+- **Microcontroller/Processor Knowledge**: STM32, ATmega328P, ATmega2560, ESP32, ESP8266, RP2040
 - **Operating Systems**: Linux
 - **Network**: Wireshark, Nmap, nmcli, tcpdump, Netcat, Hping, Wi-Fi Analyzer (like wavemon, iperf3, iw/iwconfig)
 - **Other**: Docker, Kubernetes, tmux, vim
