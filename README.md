@@ -68,7 +68,7 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
    - GitHub Repository: [https://github.com/Paschalis/STM32-InfoMonitor](https://github.com/Paschalis/STM32-InfoMonitor)  
 
 #### <div align="center">Projects with the Espressif Systems MCUs (ESP32-S, ESP8266)</div>
-1. **Feline Watchdog: Missing Cat Alert System** ![Under Construction](https://img.shields.io/badge/status-in%20progress-green)
+1. **Feline Watchdog: Missing Cat Alert System** 
    - Description: An ESP32-based system to alert you when your cat goes missing. Monitors Wi-Fi connection between your cat's collar-mounted ESP32 device and a Raspberry Pi. Notifications sent to your iOS or Android device using ntfy and Docker. Peace of mind for cat owners.
    - Tools used: ESP32-S, Raspberry Pi, KiCad, FreeCAD
    - GitHub Repository: [https://github.com/k-antoniou/FelineWatchdog](https://github.com/k-antoniou/FelineWatchdog)      
