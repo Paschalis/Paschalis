@@ -33,7 +33,12 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
 2. **Morse Code Converter**
    - Description: A terminal-based Morse code converter tool for PC, implemented in both C and C++. This repository serves as a reference implementation for a similar project targeting microcontrollers, the [MCU-Morse-Code-Decoder](https://github.com/Paschalis/MCU-Morse-Code-Decoder). 
    - Tools used: C, C++
-   - GitHub Repository: [https://github.com/Paschalis/Morse-Code-Converter](https://github.com/Paschalis/Morse-Code-Converter)    
+   - GitHub Repository: [https://github.com/Paschalis/Morse-Code-Converter](https://github.com/Paschalis/Morse-Code-Converter)   
+
+3. **MCU Morse Code Decoder** ![Under Construction](https://img.shields.io/badge/status-in%20progress-green)
+   - Description: In the demanding environment of a helicopter, the MCU Morse Code Decoder captures audio signals from an ADF receiver via ADC, accurately decodes Morse code patterns, and displays the results alongside dots and dashes on an LCD 2004 display. 
+   - Tools used: ATmega328p, ESP32, STM32
+   - GitHub Repository: [https://github.com/Paschalis/Morse-Code-Converter](https://github.com/Paschalis/Morse-Code-Converter)   
 
 #### <div align="center">Projects with the Atmel (now Microchip) MCUs (ATmega328P, ATmega2560, ATtiny85)</div>
 
@@ -52,12 +57,15 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
    - Tools used: ATtiny85, Arduino as ISP, KiCad, FreeCAD
    - GitHub Repository: [https://github.com/Paschalis/Hardware-Login-Key](https://github.com/Paschalis/Hardware-Login-Key)
 
+<<<<<<< HEAD
 #### <div align="center">Projects with the Espressif Systems MCUs (ESP32-S, ESP8266)</div>
 1. **Feline Watchdog: Missing Cat Alert System** 
    - Description: An ESP32-based system to alert you when your cat goes missing. Monitors Wi-Fi connection between your cat's collar-mounted ESP32 device and an Embedded System. Notifications sent to your iOS or Android device using ntfy and Docker. Peace of mind for cat owners.
    - Tools used: ESP32-S, Raspberry Pi, KiCad, FreeCAD
    - GitHub Repository: [https://github.com/k-antoniou/FelineWatchdog](https://github.com/k-antoniou/FelineWatchdog)  
 
+=======
+>>>>>>> 2f1501b (Modified README.md)
 #### <div align="center">Projects with the ST MCUs (STM32F103C8, STM32F446RE)</div>
   
 1. **Agriculture Sensor Integration Project** ![Under Construction](https://img.shields.io/badge/status-in%20progress-green)
