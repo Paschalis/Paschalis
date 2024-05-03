@@ -52,7 +52,11 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
    - Tools used: ATtiny85, Arduino as ISP, KiCad, FreeCAD
    - GitHub Repository: [https://github.com/Paschalis/Hardware-Login-Key](https://github.com/Paschalis/Hardware-Login-Key)
 
-
+#### <div align="center">Projects with the Espressif Systems MCUs (ESP32-S, ESP8266)</div>
+1. **Feline Watchdog: Missing Cat Alert System** 
+   - Description: An ESP32-based system to alert you when your cat goes missing. Monitors Wi-Fi connection between your cat's collar-mounted ESP32 device and a Raspberry Pi. Notifications sent to your iOS or Android device using ntfy and Docker. Peace of mind for cat owners.
+   - Tools used: ESP32-S, Raspberry Pi, KiCad, FreeCAD
+   - GitHub Repository: [https://github.com/k-antoniou/FelineWatchdog](https://github.com/k-antoniou/FelineWatchdog)  
 
 #### <div align="center">Projects with the ST MCUs (STM32F103C8, STM32F446RE)</div>
   
@@ -61,17 +65,10 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
    - Tools used: STM32 (STM32F103C8, STM32F446RE), STM32CubeIDE
    - GitHub Repository: [https://github.com/Paschalis/STM32-Agriculture](https://github.com/Paschalis/STM32-Agriculture)  
 
-
 2. **STM32 Info Monitor** ![Under Construction](https://img.shields.io/badge/status-in%20progress-green)
    - Description: An STM32 based USB information monitor with an SPI-connected 2-inch IPS LCD display. The project enables communication with a connected PC via USB CDC and displays system information such as hostname, kernel, IP address and CPU usage on the LCD screen.
    - Tools used: STM32 (STM32F103C8, STM32F446RE), STM32CubeIDE, KiCad, FreeCAD
-   - GitHub Repository: [https://github.com/Paschalis/STM32-InfoMonitor](https://github.com/Paschalis/STM32-InfoMonitor)  
-
-#### <div align="center">Projects with the Espressif Systems MCUs (ESP32-S, ESP8266)</div>
-1. **Feline Watchdog: Missing Cat Alert System** 
-   - Description: An ESP32-based system to alert you when your cat goes missing. Monitors Wi-Fi connection between your cat's collar-mounted ESP32 device and a Raspberry Pi. Notifications sent to your iOS or Android device using ntfy and Docker. Peace of mind for cat owners.
-   - Tools used: ESP32-S, Raspberry Pi, KiCad, FreeCAD
-   - GitHub Repository: [https://github.com/k-antoniou/FelineWatchdog](https://github.com/k-antoniou/FelineWatchdog)      
+   - GitHub Repository: [https://github.com/Paschalis/STM32-InfoMonitor](https://github.com/Paschalis/STM32-InfoMonitor)      
 
 ## Academic Projects
   
