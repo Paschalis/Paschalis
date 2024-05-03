@@ -57,15 +57,12 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
    - Tools used: ATtiny85, Arduino as ISP, KiCad, FreeCAD
    - GitHub Repository: [https://github.com/Paschalis/Hardware-Login-Key](https://github.com/Paschalis/Hardware-Login-Key)
 
-<<<<<<< HEAD
 #### <div align="center">Projects with the Espressif Systems MCUs (ESP32-S, ESP8266)</div>
 1. **Feline Watchdog: Missing Cat Alert System** 
    - Description: An ESP32-based system to alert you when your cat goes missing. Monitors Wi-Fi connection between your cat's collar-mounted ESP32 device and an Embedded System. Notifications sent to your iOS or Android device using ntfy and Docker. Peace of mind for cat owners.
    - Tools used: ESP32-S, Raspberry Pi, KiCad, FreeCAD
    - GitHub Repository: [https://github.com/k-antoniou/FelineWatchdog](https://github.com/k-antoniou/FelineWatchdog)  
 
-=======
->>>>>>> 2f1501b (Modified README.md)
 #### <div align="center">Projects with the ST MCUs (STM32F103C8, STM32F446RE)</div>
   
 1. **Agriculture Sensor Integration Project** ![Under Construction](https://img.shields.io/badge/status-in%20progress-green)
