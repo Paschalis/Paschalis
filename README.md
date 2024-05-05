@@ -40,7 +40,7 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
    - Tools used: ATmega328p, ESP32, STM32
    - GitHub Repository: [https://github.com/Paschalis/Morse-Code-Converter](https://github.com/Paschalis/Morse-Code-Converter)   
 
-#### <div align="center"> ~~~~~~ Projects with the Atmel (now Microchip) MCUs (ATmega328P, ATmega2560, ATtiny85) ~~~~~~</div>
+#### <div align="center">Projects with the Atmel (now Microchip) MCUs (ATmega328P, ATmega2560, ATtiny85) </div>
 
 1. **Sunrise-Sunset Automatic Dimmer**
    - Description: This system allows for precise dimming control through an IRF740 Power MOSFET, driven by user-configurable timers and a 4n35 optocoupler for seamless sunrise and sunset simulation, optimizing lighting conditions in poultry farms.
@@ -57,13 +57,13 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
    - Tools used: ATtiny85, Arduino as ISP, KiCad, FreeCAD
    - GitHub Repository: [https://github.com/Paschalis/Hardware-Login-Key](https://github.com/Paschalis/Hardware-Login-Key)
 
-#### <div align="center">~~~~~~ Projects with the Espressif Systems MCUs (ESP32-S, ESP8266) ~~~~~~ </div>
+#### <div align="center"> Projects with the Espressif Systems MCUs (ESP32-S, ESP8266)  </div>
 1. **Feline Watchdog: Missing Cat Alert System** 
    - Description: An ESP32-based system to alert you when your cat goes missing. Monitors Wi-Fi connection between your cat's collar-mounted ESP32 device and an Embedded System. Notifications sent to your iOS or Android device using ntfy and Docker. Peace of mind for cat owners.
    - Tools used: ESP32-S, Raspberry Pi, KiCad, FreeCAD
    - GitHub Repository: [https://github.com/k-antoniou/FelineWatchdog](https://github.com/k-antoniou/FelineWatchdog)  
 
-#### <div align="center">~~~~~~ Projects with the ST MCUs (STM32F103C8, STM32F446RE) ~~~~~~</div>
+#### <div align="center"> Projects with the ST MCUs (STM32F103C8, STM32F446RE) </div>
   
 1. **Agriculture Sensor Integration Project** ![Under Construction](https://img.shields.io/badge/status-in%20progress-green)
    - Description: Demonstrates the integration of various sensors commonly used in agriculture applications on a STM32 microcontroller platform. 
