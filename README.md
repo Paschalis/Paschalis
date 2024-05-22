@@ -31,7 +31,7 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
    - GitHub Repository: [https://github.com/Paschalis/Design2PCB](https://github.com/Paschalis/Design2PCB) 
 
 2. **Morse Code Converter**
-   - Description: A terminal-based Morse code converter tool for PC, implemented in both C and C++. This repository serves as a reference implementation for a similar project targeting microcontrollers, the [MCU-Morse-Code-Decoder](https://github.com/Paschalis/MCU-Morse-Code-Decoder). 
+   - Description: A terminal-based Morse code converter tool for PC, implemented in both C and C++. This repository serves as a reference implementation for a similar project targeting microcontrollers, the **"MCU Morse Code Decoder"**. 
    - Tools used: C, C++
    - GitHub Repository: [https://github.com/Paschalis/Morse-Code-Converter](https://github.com/Paschalis/Morse-Code-Converter)   
 
