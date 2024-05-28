@@ -38,7 +38,8 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
 3. **MCU Morse Code Decoder** ![Under Construction](https://img.shields.io/badge/status-in%20progress-green)
    - Description: In the demanding environment of a helicopter, the MCU Morse Code Decoder captures audio signals from an ADF receiver via ADC, accurately decodes Morse code patterns, and displays the results alongside dots and dashes on an LCD 2004 display. 
    - Tools used: ATmega328p, ESP32, STM32
-   - GitHub Repository: [https://github.com/Paschalis/Morse-Code-Converter](https://github.com/Paschalis/Morse-Code-Converter)   
+   - GitHub Repository: <span style="color: orange;">This repository is currently under construction!</span>
+
 
 #### <div align="center">Projects with the Atmel (now Microchip) MCUs (ATmega328P, ATmega2560, ATtiny85) </div>
 
@@ -83,32 +84,37 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
      - Tools used: MATLAB, Praat, SoX
      - GitHub Repository: [https://github.com/Paschalis/VoiceMeld](https://github.com/Paschalis/VoiceMeld)
   
-  2. **House Renting Management System Java Application**
+  2. **UART with CRC Error Detection on FPGA** ![Under Construction](https://img.shields.io/badge/status-in%20progress-green)
+     - Description: Verilog implementation of UART communication with CRC-based error detection for FPGA synthesis and evaluation. 
+     - Tools used: Xilinx Vivado, Nexys A7 FPGA Board
+     - GitHub Repository: [https://github.com/Paschalis/UART_CRC_Error_Detection_FPGA](https://github.com/Paschalis/UART_CRC_Error_Detection_FPGA)
+
+  3. **House Renting Management System Java Application**
      - Description: This repository contains the source code for a Java application developed as a part of the PGS602 course (Advanced Software Design Topics) at the University of Thessaly. The application is designed to manage house renting activities.
      - Tools used: JDBC, MySQL, JavaMail, JavaFX
      - GitHub Repository: [This repository is currently private.](https://github.com/Paschalis)
 
-  3. **Computer Organization**
+  4. **Computer Organization**
      - Description: Verilog Simulation with Icarus Verilog (iverilog)
      - Tools used: iverilog, vvp, gtkwave
      - GitHub Repository: [https://github.com/Paschalis/Computer-Organization-Verilog-GTKWave](https://github.com/Paschalis/Computer-Organization-Verilog-GTKWave)
 
-  4. **VLSI Design Course Materials**
+  5. **VLSI Design Course Materials**
      - Description: VLSI Design, focusing on CMOS gate energy use and design with MicroWind and PSpice. It delves into inverter construction, complex logic with Euler paths, and delay analysis. 
      - Tools used: MicroWind, PSpice
      - GitHub Repository: [https://github.com/Paschalis/VLSI-Design](https://github.com/Paschalis/VLSI-Design)
 
-  5. **FORT500 Compiler**
+  6. **FORT500 Compiler**
      - Description: Development of a compiler for FORT500, a high-level language resembling FORTRAN with structured commands and record structures, supporting recursive subprogram definition.
      - Tools used: flex, bison
      - GitHub Repository: [https://github.com/Paschalis/fort500-compiler](https://github.com/Paschalis/fort500-compiler)
 
-  6. **Digital Logic Design Laboratory Exercises**
+  7. **Digital Logic Design Laboratory Exercises**
      - Description: Lab exercises for the EY121 Digital Logic Design course, covering simulations of logic gates to sequential circuits. 
      - Tools used: Multisim
      - GitHub Repository: [https://github.com/Paschalis/Digital-Logic-Design](https://github.com/Paschalis/Digital-Logic-Design)
 
-  7. **MIPS Assembly Exercises**
+  8. **MIPS Assembly Exercises**
      - Description: MIPS Assembly Exercises
      - Tools used: spim
      - GitHub Repository: [https://github.com/Paschalis/ASM-MIPS-Assembly](https://github.com/Paschalis/ASM-MIPS-Assembly)
