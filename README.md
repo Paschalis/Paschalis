@@ -38,7 +38,8 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
 3. **MCU Morse Code Decoder** ![Under Construction](https://img.shields.io/badge/status-in%20progress-green)
    - Description: In the demanding environment of a helicopter, the MCU Morse Code Decoder captures audio signals from an ADF receiver via ADC, accurately decodes Morse code patterns, and displays the results alongside dots and dashes on an LCD 2004 display. 
    - Tools used: ATmega328p, ESP32, STM32
-   - GitHub Repository: <span style="color: orange;">This repository is currently under construction!</span>
+   - GitHub Repository: **This repository is currently under construction** 🚧
+
 
 
 #### <div align="center">Projects with the Atmel (now Microchip) MCUs (ATmega328P, ATmega2560, ATtiny85) </div>
