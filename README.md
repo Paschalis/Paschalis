@@ -19,106 +19,153 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/></a>
   <a href="https://www.kernel.org/" target="_blank" rel="noreferrer"><img src="https://www.kernel.org/theme/images/logos/tux.png" alt="linux" width="40" height="40"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a>
-  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.latex-project.org/favicon.ico" alt="latex" width="40" height="40"/></a>
-  
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.latex-project.org/favicon.ico" alt="latex" width="40" height="40"/></a>  
 </p>
 
-## Projects
+## Projects <span style="color: rgba(0, 0, 0, 0.35);">(click on them to expand)</span>
 
-1. **Design to PCB**
-   - Description: A showcase of custom PCB designs and footprints, featuring KiCad schematics and PCB layouts initially designed with CAD modeling, along with unique footprints derived from Inkscape illustrations, converted for KiCad use. 
-   - Tools used: KiCad, FreeCAD, Inkscape
-   - GitHub Repository: [https://github.com/Paschalis/Design2PCB](https://github.com/Paschalis/Design2PCB) 
+<ol style="line-height: 2;">
+    <li><details>
+   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">Design to PCB</span></strong></summary> 
 
-2. **Morse Code Converter**
+   - **Description:** A showcase of custom PCB designs and footprints, featuring KiCad schematics and PCB layouts initially designed with CAD modeling, along with unique footprints derived from Inkscape illustrations, converted for KiCad use.
+   - **Tools used:** KiCad, FreeCAD, Inkscape
+   - <a href="https://github.com/Paschalis/Design2PCB"><img src="https://img.shields.io/badge/Go_to_repository-Design_to_PCB-purple?style=for-the-badge&logo=github" alt="Design to PCB Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/Design2PCB?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/Design2PCB)
+   <!-- - [<img src="https://img.shields.io/badge/Go to repository  ➡️-Design%20to%20PCB-purple?style=for-the-badge&logo=github" alt="Design to PCB Repository">](https://github.com/Paschalis/Design2PCB)   [<img src="https://img.shields.io/github/stars/Paschalis/Design2PCB?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/Design2PCB) -->
+   <!-- Nice color = 2e5643 -->
+   </details></li>
+    <li><details>
+   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">Morse Code Converter</span></strong></summary> 
+
    - Description: A terminal-based Morse code converter tool for PC, implemented in both C and C++. This repository serves as a reference implementation for a similar project targeting microcontrollers, the **"MCU Morse Code Decoder"**. 
-   - Tools used: C, C++
-   - GitHub Repository: [https://github.com/Paschalis/Morse-Code-Converter](https://github.com/Paschalis/Morse-Code-Converter)   
+   - **Tools used:** C, C++
+   - <a href="https://github.com/Paschalis/Morse-Code-Converter"><img src="https://img.shields.io/badge/Go_to_repository-Morse_Code_Converter-purple?style=for-the-badge&logo=github" alt="Morse Code Converter Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/Morse-Code-Converter?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/Morse-Code-Converter)
 
-3. **MCU Morse Code Decoder** ![Under Construction](https://img.shields.io/badge/status-in%20progress-green)
+   </details></li>
+    <li><details>
+   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">MCU Morse Code Decoder</span><img src="https://img.shields.io/badge/status ➡️-in%20progress-2e5643" alt="Under Construction" style="vertical-align: middle; margin-left: 5px; padding: 3px; border-radius: 15px;"></span></strong></summary>
+   
    - Description: In the demanding environment of a helicopter, the MCU Morse Code Decoder captures audio signals from an ADF receiver via ADC, accurately decodes Morse code patterns, and displays the results alongside dots and dashes on an LCD 2004 display. 
    - Tools used: ATmega328p, ESP32, STM32
-   - GitHub Repository: **This repository is currently under construction** 🚧
-
-
+   - <a href="https://github.com/Paschalis/MCU-Morse-Code-Decoder"><img src="https://img.shields.io/badge/Go_to_repository-MCU Morse Code Decoder-purple?style=for-the-badge&logo=github" alt="MCU Morse Code Decoder Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/MCU-Morse-Code-Decoder?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/MCU-Morse-Code-Decoder)
+   </details></li>
+</ol>
 
 #### <div align="center">Projects with the Atmel (now Microchip) MCUs (ATmega328P, ATmega2560, ATtiny85) </div>
 
-1. **Sunrise-Sunset Automatic Dimmer**
+<ol style="line-height: 2;">
+    <li><details>
+   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">Sunrise-Sunset Automatic Dimmer</strong></summary>
+
    - Description: This system allows for precise dimming control through an IRF740 Power MOSFET, driven by user-configurable timers and a 4n35 optocoupler for seamless sunrise and sunset simulation, optimizing lighting conditions in poultry farms.
    - Tools used: Arduino IDE, ATmega328P, KiCad
-   - GitHub Repository: [https://github.com/Paschalis/SunriseSunsetACDimmer](https://github.com/Paschalis/SunriseSunsetACDimmer)
+   - <a href="https://github.com/Paschalis/SunriseSunsetACDimmer"><img src="https://img.shields.io/badge/Go_to_repository-Sunrise Sunset Automatic Dimmer-purple?style=for-the-badge&logo=github" alt="Sunrise-Sunset Automatic Dimmer Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/SunriseSunsetACDimmer?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/SunriseSunsetACDimmer)
+   </details></li>
+    <li><details>
+   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">VHF Communications Transceiver Control System</strong></summary>
 
-2. **VHF Communications Transceiver Control System**
    - Description: Arduino-based control system for VHF transceivers, featuring keypad input, 7-segment display output, and BCD frequency encoding for enhanced communication efficiency. 
    - Tools used: Arduino IDE, ATmega2560, Shift Registers 74HC595, 74HC165
-   - GitHub Repository: [https://github.com/Paschalis/VHF-Transceiver-Control-System](https://github.com/Paschalis/VHF-Transceiver-Control-System)
+   - <a href="https://github.com/Paschalis/VHF-Transceiver-Control-System"><img src="https://img.shields.io/badge/Go_to_repository-VHF Communications Transceiver Control System-purple?style=for-the-badge&logo=github" alt="VHF Communications Transceiver Control System Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/VHF-Transceiver-Control-System?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/VHF-Transceiver-Control-System)
+   </details></li>
+    <li><details>
+   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">Hardware Login Key</span><img src="https://img.shields.io/badge/status ➡️-in%20progress-2e5643" alt="Under Construction" style="vertical-align: middle; margin-left: 5px; padding: 3px; border-radius: 15px;"></strong></summary>
    
-3. **Hardware Login Key** ![Under Construction](https://img.shields.io/badge/status-in%20progress-green)
    - Description: This project provides a simple solution for securely logging into a system or website using a hardware key. By pressing a physical button connected to an ATtiny85 microcontroller, users can automate the login process, reducing the risk of password exposure.
    - Tools used: ATtiny85, Arduino as ISP, KiCad, FreeCAD
-   - GitHub Repository: [https://github.com/Paschalis/Hardware-Login-Key](https://github.com/Paschalis/Hardware-Login-Key)
+   - <a href="https://github.com/Paschalis/Hardware-Login-Key"><img src="https://img.shields.io/badge/Go_to_repository-Hardware Login Key-purple?style=for-the-badge&logo=github" alt="Hardware Login Key Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/Hardware-Login-Key?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/Hardware-Login-Key)
+   </details></li>
+</ol>
 
 #### <div align="center"> Projects with the Espressif Systems MCUs (ESP32-S, ESP8266)  </div>
 
-1. **Feline Watchdog: Missing Cat Alert System** 
+<ol style="line-height: 2;">
+    <li><details>
+   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">Feline Watchdog: Missing Cat Alert System</strong></summary>
+
    - Description: An ESP32-based system to alert you when your cat goes missing. Monitors Wi-Fi connection between your cat's collar-mounted ESP32 device and an Embedded System. Notifications sent to your iOS or Android device using ntfy and Docker. Peace of mind for cat owners.
    - Tools used: ESP32-S, Raspberry Pi, KiCad, FreeCAD
-   - GitHub Repository: [https://github.com/k-antoniou/FelineWatchdog](https://github.com/k-antoniou/FelineWatchdog)  
+   - <a href="https://github.com/k-antoniou/FelineWatchdog"><img src="https://img.shields.io/badge/Go_to_repository-Feline Watchdog: Missing Cat Alert System-purple?style=for-the-badge&logo=github" alt="Feline Watchdog: Missing Cat Alert System Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/k-antoniou/FelineWatchdog?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/k-antoniou/FelineWatchdog)  </li>
+</ol>
 
 #### <div align="center"> Projects with the ST MCUs (STM32F103C8, STM32F446RE) </div>
-  
-1. **Agriculture Sensor Integration Project** ![Under Construction](https://img.shields.io/badge/status-in%20progress-green)
+
+<ol style="line-height: 2;">
+    <li><details>
+   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">Agriculture Sensor Integration Project</span><img src="https://img.shields.io/badge/status ➡️-in%20progress-2e5643" alt="Under Construction" style="vertical-align: middle; margin-left: 5px; padding: 3px; border-radius: 15px;"></strong></summary>
+
    - Description: Demonstrates the integration of various sensors commonly used in agriculture applications on a STM32 microcontroller platform. 
    - Tools used: STM32 (STM32F103C8, STM32F446RE), STM32CubeIDE
-   - GitHub Repository: [https://github.com/Paschalis/STM32-Agriculture](https://github.com/Paschalis/STM32-Agriculture)  
-
-2. **STM32 Info Monitor** ![Under Construction](https://img.shields.io/badge/status-in%20progress-green)
+   - <a href="https://github.com/Paschalis/STM32-Agriculture"><img src="https://img.shields.io/badge/Go_to_repository-Agriculture Sensor Integration Project-purple?style=for-the-badge&logo=github" alt="Agriculture Sensor Integration Project Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/STM32-Agriculture?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/STM32-Agriculture)  
+   </details></li>
+    <li><details>
+   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">STM32 Info Monitor</span><img src="https://img.shields.io/badge/status ➡️-in%20progress-2e5643" alt="Under Construction" style="vertical-align: middle; margin-left: 5px; padding: 3px; border-radius: 15px;"></strong></summary>
    - Description: An STM32 based USB information monitor with an SPI-connected 2-inch IPS LCD display. The project enables communication with a connected PC via USB CDC and displays system information such as hostname, kernel, IP address and CPU usage on the LCD screen.
    - Tools used: STM32 (STM32F103C8, STM32F446RE), STM32CubeIDE, KiCad, FreeCAD
-   - GitHub Repository: [https://github.com/Paschalis/STM32-InfoMonitor](https://github.com/Paschalis/STM32-InfoMonitor)      
+   - <a href="https://github.com/Paschalis/STM32-InfoMonitor"><img src="https://img.shields.io/badge/Go_to_repository-STM32 Info Monitor-purple?style=for-the-badge&logo=github" alt="STM32 Info Monitor Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/STM32-InfoMonitor?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/STM32-InfoMonitor)   
+   </details></li>
+</ol>     
 
-## Academic Projects
-  
-  1. **Voice Processing and Synthesis Project**
-     - Description: Advanced Topics in Speech and Language Processing.
-     - Tools used: MATLAB, Praat, SoX
-     - GitHub Repository: [https://github.com/Paschalis/VoiceMeld](https://github.com/Paschalis/VoiceMeld)
-  
-  2. **UART with CRC Error Detection on FPGA** ![Under Construction](https://img.shields.io/badge/status-in%20progress-green)
-     - Description: Verilog implementation of UART communication with CRC-based error detection for FPGA synthesis and evaluation. 
-     - Tools used: Xilinx Vivado, Nexys A7 FPGA Board
-     - GitHub Repository: [https://github.com/Paschalis/UART_CRC_Error_Detection_FPGA](https://github.com/Paschalis/UART_CRC_Error_Detection_FPGA)
+## Academic Projects <span style="color: rgba(0, 0, 0, 0.35);">(click on them to expand)</span>
 
-  3. **House Renting Management System Java Application**
-     - Description: This repository contains the source code for a Java application developed as a part of the PGS602 course (Advanced Software Design Topics) at the University of Thessaly. The application is designed to manage house renting activities.
-     - Tools used: JDBC, MySQL, JavaMail, JavaFX
-     - GitHub Repository: [This repository is currently private.](https://github.com/Paschalis)
+<ol style="line-height: 2;">
+   <li><details>
+   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">Voice Processing and Synthesis Project</strong></summary>
 
-  4. **Computer Organization**
-     - Description: Verilog Simulation with Icarus Verilog (iverilog)
-     - Tools used: iverilog, vvp, gtkwave
-     - GitHub Repository: [https://github.com/Paschalis/Computer-Organization-Verilog-GTKWave](https://github.com/Paschalis/Computer-Organization-Verilog-GTKWave)
+   - Description: Advanced Topics in Speech and Language Processing.
+   - Tools used: MATLAB, Praat, SoX
+   - <a href="https://github.com/Paschalis/VoiceMeld"><img src="https://img.shields.io/badge/Go_to_repository-Voice Processing and Synthesis Project-purple?style=for-the-badge&logo=github" alt="Voice Processing and Synthesis Project Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/VoiceMeld?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/VoiceMeld) 
+   </details></li>
+   <li><details>
+   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">UART with CRC Error Detection on FPGA</span><img src="https://img.shields.io/badge/status ➡️-in%20progress-2e5643" alt="Under Construction" style="vertical-align: middle; margin-left: 5px; padding: 3px; border-radius: 15px;"></strong></summary>
+   
+   - Description: Verilog implementation of UART communication with CRC-based error detection for FPGA synthesis and evaluation. 
+   - Tools used: Xilinx Vivado, Nexys A7 FPGA Board
+   - <a href="https://github.com/Paschalis/UART_CRC_Error_Detection_FPGA"><img src="https://img.shields.io/badge/Go_to_repository-UART with CRC Error Detection on FPGA-purple?style=for-the-badge&logo=github" alt="UART with CRC Error Detection on FPGA Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/UART_CRC_Error_Detection_FPGA?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/UART_CRC_Error_Detection_FPGA)
+   </details></li>
+   <li><details>
+   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">House Renting Management System Java Application</strong></summary>
 
-  5. **VLSI Design Course Materials**
-     - Description: VLSI Design, focusing on CMOS gate energy use and design with MicroWind and PSpice. It delves into inverter construction, complex logic with Euler paths, and delay analysis. 
-     - Tools used: MicroWind, PSpice
-     - GitHub Repository: [https://github.com/Paschalis/VLSI-Design](https://github.com/Paschalis/VLSI-Design)
+   - Description: This repository contains the source code for a Java application developed as a part of the PGS602 course (Advanced Software Design Topics) at the University of Thessaly. The application is designed to manage house renting activities.
+   - Tools used: JDBC, MySQL, JavaMail, JavaFX
+   - <a href="https://github.com/Paschalis/UART_CRC_Error_Detection_FPGA">[<img src="https://img.shields.io/badge/This repository is currently private..-red?style=for-the-badge&logo=github" alt="House Renting Management System Java Application Repository" style="border-radius: 15px;">](https://github.com/Paschalis)
+   </details></li>
+   <li><details>
+   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">Computer Organization</strong></summary>
 
-  6. **FORT500 Compiler**
-     - Description: Development of a compiler for FORT500, a high-level language resembling FORTRAN with structured commands and record structures, supporting recursive subprogram definition.
-     - Tools used: flex, bison
-     - GitHub Repository: [https://github.com/Paschalis/fort500-compiler](https://github.com/Paschalis/fort500-compiler)
+   - Description: Verilog Simulation with Icarus Verilog (iverilog)
+   - Tools used: iverilog, vvp, gtkwave
+   - <a href="https://github.com/Paschalis/Computer-Organization-Verilog-GTKWave"><img src="https://img.shields.io/badge/Go_to_repository-Computer Organization-purple?style=for-the-badge&logo=github" alt="Computer Organization Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/Computer-Organization-Verilog-GTKWave?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/Computer-Organization-Verilog-GTKWave)
+   </details></li>
+   <li><details>
+   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">VLSI Design Course Materials</strong></summary>
 
-  7. **Digital Logic Design Laboratory Exercises**
-     - Description: Lab exercises for the EY121 Digital Logic Design course, covering simulations of logic gates to sequential circuits. 
-     - Tools used: Multisim
-     - GitHub Repository: [https://github.com/Paschalis/Digital-Logic-Design](https://github.com/Paschalis/Digital-Logic-Design)
+   - Description: VLSI Design, focusing on CMOS gate energy use and design with MicroWind and PSpice. It delves into inverter construction, complex logic with Euler paths, and delay analysis. 
+   - Tools used: MicroWind, PSpice
+   - <a href="https://github.com/Paschalis/VLSI-Design"><img src="https://img.shields.io/badge/Go_to_repository-VLSI Design Course Materials-purple?style=for-the-badge&logo=github" alt="VLSI Design Course Materials Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/VLSI-Design?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/VLSI-Design)
+   </details></li>
+   <li><details>
+   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">FORT500 Compiler</strong></summary>
+   
+   - Description: Development of a compiler for FORT500, a high-level language resembling FORTRAN with structured commands and record structures, supporting recursive subprogram definition.
+   - Tools used: flex, bison
+   - <a href="https://github.com/Paschalis/fort500-compiler"><img src="https://img.shields.io/badge/Go_to_repository-FORT500 Compiler-purple?style=for-the-badge&logo=github" alt="FORT500 Compiler Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/fort500-compiler?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/fort500-compiler)
+   </details></li>
+   <li><details>
+   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">Digital Logic Design Laboratory Exercises</strong></summary>
 
-  8. **MIPS Assembly Exercises**
-     - Description: MIPS Assembly Exercises
-     - Tools used: spim
-     - GitHub Repository: [https://github.com/Paschalis/ASM-MIPS-Assembly](https://github.com/Paschalis/ASM-MIPS-Assembly)
+   - Description: Lab exercises for the EY121 Digital Logic Design course, covering simulations of logic gates to sequential circuits. 
+   - Tools used: Multisim
+   - <a href="https://github.com/Paschalis/Digital-Logic-Design"><img src="https://img.shields.io/badge/Go_to_repository-Voice Processing and Synthesis Project-purple?style=for-the-badge&logo=github" alt="Digital Logic Design Laboratory Exercises Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/Digital-Logic-Design?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/Digital-Logic-Design)
+   </details></li>
+   <li><details>
+   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">MIPS Assembly Exercises</strong></summary>
+
+   - Description: MIPS Assembly Exercises
+   - Tools used: spim
+   - <a href="https://github.com/Paschalis/ASM-MIPS-Assembly"><img src="https://img.shields.io/badge/Go_to_repository-MIPS Assembly Exercises-purple?style=for-the-badge&logo=github" alt="MIPS Assembly Exercises Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/ASM-MIPS-Assembly?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/ASM-MIPS-Assembly) 
+   </details></li>
+</ol>     
      
 ## Technical Skills
 
@@ -136,3 +183,4 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Paschalis&layout=compact&hide=html,css"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paschalis&layout=compact&hide=html,css" alt="Top Languages"></a>
 
 </p>
+
