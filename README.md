@@ -83,9 +83,7 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
 
 ## <div align="center"> Academic Projects </div>
 
-<p style="text-align: center;">
-    <span style="color: red;">(click on them to expand)</span>
-</p>
+<p align="center"><em>(click on them to expand)</em></p>
 
 <ol style="line-height: 2;">
    <li><details>
