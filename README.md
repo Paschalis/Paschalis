@@ -22,91 +22,67 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://www.latex-project.org/favicon.ico" alt="latex" width="40" height="40"/></a>  
 </p>
 
-## Projects <span style="color: rgba(0, 0, 0, 0.35);">(click on them to expand)</span>
+## <div align="center"> Projects 
 
-<ol style="line-height: 2;">
-    <li><details>
-   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">Design to PCB</span></strong></summary> 
+1. <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">Design to PCB</span></strong></summary> 
 
    - **Description:** A showcase of custom PCB designs and footprints, featuring KiCad schematics and PCB layouts initially designed with CAD modeling, along with unique footprints derived from Inkscape illustrations, converted for KiCad use.
    - **Tools used:** KiCad, FreeCAD, Inkscape
    - <a href="https://github.com/Paschalis/Design2PCB"><img src="https://img.shields.io/badge/Go_to_repository-Design_to_PCB-purple?style=for-the-badge&logo=github" alt="Design to PCB Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/Design2PCB?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/Design2PCB)
    <!-- - [<img src="https://img.shields.io/badge/Go to repository  ➡️-Design%20to%20PCB-purple?style=for-the-badge&logo=github" alt="Design to PCB Repository">](https://github.com/Paschalis/Design2PCB)   [<img src="https://img.shields.io/github/stars/Paschalis/Design2PCB?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/Design2PCB) -->
    <!-- Nice color = 2e5643 -->
-   </details></li>
-    <li><details>
-   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">Morse Code Converter</span></strong></summary> 
+2. <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">Morse Code Converter</span></strong></summary> 
 
    - Description: A terminal-based Morse code converter tool for PC, implemented in both C and C++. This repository serves as a reference implementation for a similar project targeting microcontrollers, the **"MCU Morse Code Decoder"**. 
    - **Tools used:** C, C++
    - <a href="https://github.com/Paschalis/Morse-Code-Converter"><img src="https://img.shields.io/badge/Go_to_repository-Morse_Code_Converter-purple?style=for-the-badge&logo=github" alt="Morse Code Converter Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/Morse-Code-Converter?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/Morse-Code-Converter)
 
-   </details></li>
-    <li><details>
-   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">MCU Morse Code Decoder</span><img src="https://img.shields.io/badge/status ➡️-in%20progress-2e5643" alt="Under Construction" style="vertical-align: middle; margin-left: 5px; padding: 3px; border-radius: 15px;"></span></strong></summary>
+3. <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">MCU Morse Code Decoder </span><img src="https://img.shields.io/badge/status ➡️-in%20progress-green" alt="Under Construction" style="vertical-align: middle; margin-left: 5px; padding: 3px; border-radius: 15px;"></span></strong></summary>
    
    - Description: In the demanding environment of a helicopter, the MCU Morse Code Decoder captures audio signals from an ADF receiver via ADC, accurately decodes Morse code patterns, and displays the results alongside dots and dashes on an LCD 2004 display. 
    - Tools used: ATmega328p, ESP32, STM32
    - <a href="https://github.com/Paschalis/MCU-Morse-Code-Decoder"><img src="https://img.shields.io/badge/Go_to_repository-MCU Morse Code Decoder-purple?style=for-the-badge&logo=github" alt="MCU Morse Code Decoder Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/MCU-Morse-Code-Decoder?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/MCU-Morse-Code-Decoder)
-   </details></li>
-</ol>
 
 #### <div align="center">Projects with the Atmel (now Microchip) MCUs (ATmega328P, ATmega2560, ATtiny85) </div>
 
-<ol style="line-height: 2;">
-    <li><details>
-   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">Sunrise-Sunset Automatic Dimmer</strong></summary>
+1. <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">Sunrise-Sunset Automatic Dimmer</strong></summary>
 
    - Description: This system allows for precise dimming control through an IRF740 Power MOSFET, driven by user-configurable timers and a 4n35 optocoupler for seamless sunrise and sunset simulation, optimizing lighting conditions in poultry farms.
    - Tools used: Arduino IDE, ATmega328P, KiCad
    - <a href="https://github.com/Paschalis/SunriseSunsetACDimmer"><img src="https://img.shields.io/badge/Go_to_repository-Sunrise Sunset Automatic Dimmer-purple?style=for-the-badge&logo=github" alt="Sunrise-Sunset Automatic Dimmer Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/SunriseSunsetACDimmer?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/SunriseSunsetACDimmer)
-   </details></li>
-    <li><details>
-   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">VHF Communications Transceiver Control System</strong></summary>
+2. <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">VHF Communications Transceiver Control System</strong></summary>
 
    - Description: Arduino-based control system for VHF transceivers, featuring keypad input, 7-segment display output, and BCD frequency encoding for enhanced communication efficiency. 
    - Tools used: Arduino IDE, ATmega2560, Shift Registers 74HC595, 74HC165
    - <a href="https://github.com/Paschalis/VHF-Transceiver-Control-System"><img src="https://img.shields.io/badge/Go_to_repository-VHF Communications Transceiver Control System-purple?style=for-the-badge&logo=github" alt="VHF Communications Transceiver Control System Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/VHF-Transceiver-Control-System?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/VHF-Transceiver-Control-System)
-   </details></li>
-    <li><details>
-   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">Hardware Login Key</span><img src="https://img.shields.io/badge/status ➡️-in%20progress-2e5643" alt="Under Construction" style="vertical-align: middle; margin-left: 5px; padding: 3px; border-radius: 15px;"></strong></summary>
+3. <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">Hardware Login Key</span><img src="https://img.shields.io/badge/status ➡️-in%20progress-2e5643" alt="Under Construction" style="vertical-align: middle; margin-left: 5px; padding: 3px; border-radius: 15px;"></strong></summary>
    
    - Description: This project provides a simple solution for securely logging into a system or website using a hardware key. By pressing a physical button connected to an ATtiny85 microcontroller, users can automate the login process, reducing the risk of password exposure.
    - Tools used: ATtiny85, Arduino as ISP, KiCad, FreeCAD
    - <a href="https://github.com/Paschalis/Hardware-Login-Key"><img src="https://img.shields.io/badge/Go_to_repository-Hardware Login Key-purple?style=for-the-badge&logo=github" alt="Hardware Login Key Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/Hardware-Login-Key?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/Hardware-Login-Key)
-   </details></li>
-</ol>
 
 #### <div align="center"> Projects with the Espressif Systems MCUs (ESP32-S, ESP8266)  </div>
 
-<ol style="line-height: 2;">
-    <li><details>
-   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">Feline Watchdog: Missing Cat Alert System</strong></summary>
+1. <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">Feline Watchdog: Missing Cat Alert System</strong></summary>
 
    - Description: An ESP32-based system to alert you when your cat goes missing. Monitors Wi-Fi connection between your cat's collar-mounted ESP32 device and an Embedded System. Notifications sent to your iOS or Android device using ntfy and Docker. Peace of mind for cat owners.
    - Tools used: ESP32-S, Raspberry Pi, KiCad, FreeCAD
-   - <a href="https://github.com/k-antoniou/FelineWatchdog"><img src="https://img.shields.io/badge/Go_to_repository-Feline Watchdog: Missing Cat Alert System-purple?style=for-the-badge&logo=github" alt="Feline Watchdog: Missing Cat Alert System Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/k-antoniou/FelineWatchdog?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/k-antoniou/FelineWatchdog)  </li>
-</ol>
+   - <a href="https://github.com/k-antoniou/FelineWatchdog"><img src="https://img.shields.io/badge/Go_to_repository-Feline Watchdog: Missing Cat Alert System-purple?style=for-the-badge&logo=github" alt="Feline Watchdog: Missing Cat Alert System Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/k-antoniou/FelineWatchdog?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/k-antoniou/FelineWatchdog)
 
 #### <div align="center"> Projects with the ST MCUs (STM32F103C8, STM32F446RE) </div>
 
-<ol style="line-height: 2;">
-    <li><details>
-   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">Agriculture Sensor Integration Project</span><img src="https://img.shields.io/badge/status ➡️-in%20progress-2e5643" alt="Under Construction" style="vertical-align: middle; margin-left: 5px; padding: 3px; border-radius: 15px;"></strong></summary>
+1. <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">Agriculture Sensor Integration Project</span><img src="https://img.shields.io/badge/status ➡️-in%20progress-2e5643" alt="Under Construction" style="vertical-align: middle; margin-left: 5px; padding: 3px; border-radius: 15px;"></strong></summary>
 
    - Description: Demonstrates the integration of various sensors commonly used in agriculture applications on a STM32 microcontroller platform. 
    - Tools used: STM32 (STM32F103C8, STM32F446RE), STM32CubeIDE
    - <a href="https://github.com/Paschalis/STM32-Agriculture"><img src="https://img.shields.io/badge/Go_to_repository-Agriculture Sensor Integration Project-purple?style=for-the-badge&logo=github" alt="Agriculture Sensor Integration Project Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/STM32-Agriculture?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/STM32-Agriculture)  
-   </details></li>
-    <li><details>
-   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">STM32 Info Monitor</span><img src="https://img.shields.io/badge/status ➡️-in%20progress-2e5643" alt="Under Construction" style="vertical-align: middle; margin-left: 5px; padding: 3px; border-radius: 15px;"></strong></summary>
+ 2. <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">STM32 Info Monitor</span><img src="https://img.shields.io/badge/status ➡️-in%20progress-2e5643" alt="Under Construction" style="vertical-align: middle; margin-left: 5px; padding: 3px; border-radius: 15px;"></strong></summary>
    - Description: An STM32 based USB information monitor with an SPI-connected 2-inch IPS LCD display. The project enables communication with a connected PC via USB CDC and displays system information such as hostname, kernel, IP address and CPU usage on the LCD screen.
    - Tools used: STM32 (STM32F103C8, STM32F446RE), STM32CubeIDE, KiCad, FreeCAD
    - <a href="https://github.com/Paschalis/STM32-InfoMonitor"><img src="https://img.shields.io/badge/Go_to_repository-STM32 Info Monitor-purple?style=for-the-badge&logo=github" alt="STM32 Info Monitor Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/STM32-InfoMonitor?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/STM32-InfoMonitor)   
-   </details></li>
-</ol>     
 
-## Academic Projects <span style="color: rgba(0, 0, 0, 0.35);">(click on them to expand)</span>
+## <div align="center"> Academic Projects 
+### <div align="center"> <span style="color: rgba(0, 0, 0, 0.35);">(click on them to expand)</span>
 
 <ol style="line-height: 2;">
    <li><details>
