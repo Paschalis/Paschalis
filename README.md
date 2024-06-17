@@ -81,8 +81,11 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
    - Tools used: STM32 (STM32F103C8, STM32F446RE), STM32CubeIDE, KiCad, FreeCAD
    - <a href="https://github.com/Paschalis/STM32-InfoMonitor"><img src="https://img.shields.io/badge/Go_to_repository-STM32 Info Monitor-purple?style=for-the-badge&logo=github" alt="STM32 Info Monitor Repository" style="border-radius: 15px;"></a> <img src="https://img.shields.io/badge/In Progress-IN?style=for-the-badge&label=status%20&color=green&logoColor=white&labelColor=black" alt="status"> [<img src="https://img.shields.io/github/stars/Paschalis/STM32-InfoMonitor?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/STM32-InfoMonitor)   
 
-## <div align="center"> Academic Projects 
-### <div align="center"> <summary style="color: red;">Click to expand</summary>
+## <div align="center"> Academic Projects </div>
+
+<p style="text-align: center;">
+    <span style="color: red;">(click on them to expand)</span>
+</p>
 
 <ol style="line-height: 2;">
    <li><details>
