@@ -58,7 +58,7 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
 3. **Hardware Login Key**
    
    - Description: This project provides a simple solution for securely logging into a system or website using a hardware key. By pressing a physical button connected to an ATtiny85 microcontroller, users can automate the login process, reducing the risk of password exposure.
-   - Tools used: ATtiny85, Arduino as ISP, KiCad, FreeCAD
+   - Tools used: ATtiny85, Arduino as ISP, KiCad, FreeCAD, Fusion 360 
    - <a href="https://github.com/Paschalis/Hardware-Login-Key"><img src="https://img.shields.io/badge/Go_to_repository-Hardware Login Key-purple?style=for-the-badge&logo=github" alt="Hardware Login Key Repository" style="border-radius: 15px;"></a> <img src="https://img.shields.io/badge/In Progress-IN?style=for-the-badge&label=status%20&color=green&logoColor=white&labelColor=black" alt="status"> [<img src="https://img.shields.io/github/stars/Paschalis/Hardware-Login-Key?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/Hardware-Login-Key)
 
 #### <div align="center"> Projects with the Espressif Systems MCUs (ESP32-S, ESP8266)  </div>
@@ -66,7 +66,7 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
 1. **Feline Watchdog: Missing Cat Alert System**
 
    - Description: An ESP32-based system to alert you when your cat goes missing. Monitors Wi-Fi connection between your cat's collar-mounted ESP32 device and an Embedded System. Notifications sent to your iOS or Android device using ntfy and Docker. Peace of mind for cat owners.
-   - Tools used: ESP32-S, Raspberry Pi, KiCad, FreeCAD
+   - Tools used: ESP32-S, Raspberry Pi, KiCad, FreeCAD, Fusion 360
    - <a href="https://github.com/k-antoniou/FelineWatchdog"><img src="https://img.shields.io/badge/Go_to_repository-Feline Watchdog: Missing Cat Alert System-purple?style=for-the-badge&logo=github" alt="Feline Watchdog: Missing Cat Alert System Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/k-antoniou/FelineWatchdog?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/k-antoniou/FelineWatchdog)
 
 #### <div align="center"> Projects with the ST MCUs (STM32F103C8, STM32F446RE) </div>
