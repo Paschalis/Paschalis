@@ -143,7 +143,20 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
    - <a href="https://github.com/Paschalis/ASM-MIPS-Assembly"><img src="https://img.shields.io/badge/Go_to_repository-MIPS Assembly Exercises-purple?style=for-the-badge&logo=github" alt="MIPS Assembly Exercises Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/ASM-MIPS-Assembly?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/ASM-MIPS-Assembly) 
    </details></li>
 </ol>     
-     
+
+## <div align="center"> Cisco Certification Preparation Hub </div>
+
+<ol style="line-height: 2;">
+   <li><details>
+   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;"> CCST Networking Exam Preparation </strong></summary>
+
+   - Description: This repository provides resources and examples for preparing for the CCST Networking exam.
+   - Tools used: iperf3, traceroute (Linux), tracert (Windows), Cisco Packet Tracer, GNS3
+   - <a href="https://github.com/Paschalis/Networking-CCST-Exam-Prep"><img src="https://img.shields.io/badge/Go_to_repository-CCST Networking Exam Preparation-purple?style=for-the-badge&logo=github" alt="CCST Networking Exam Preparation" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/Networking-CCST-Exam-Prep?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/Networking-CCST-Exam-Prep) 
+   </details></li>
+
+</ol>     
+
 ## Technical Skills
 
 - **Programming Skills**: Java (JDBC, JavaFX, JavaMail), C, MySQL, SQL, CSS, System Calls, Git, GStreamer
