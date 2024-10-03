@@ -4,17 +4,15 @@
 I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <strong>Openshift</strong>
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/paschalis-moschogiannis-38433655/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" style="width: 100px; height: 27px;">
-</a>
-  <br>
-<a href="https://paschalis.github.io/paschalis-site/" target="_blank" style="text-decoration: none;">
-    <span style="display: inline-block; padding: 6px 12px; background-color: #97cd3e; color: white; border-radius: 3px; font-weight: bold; font-size: 14px;">
-        <i class="fas fa-globe" style="margin-right: 4px;"></i> Visit My Website
-    </span>
-</a>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <a href="https://www.linkedin.com/in/paschalis-moschogiannis-38433655/">
+        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" width="100">
+    </a>
+    <br>
+    <a href="https://paschalis.github.io/paschalis-site/" target="_blank">
+        <img src="https://img.shields.io/badge/Visit%20My%20Website-97cd3e?style=flat-square&logo=link&logoColor=white" alt="Visit My Website" width="150">
+    </a>
 </p>
+
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
