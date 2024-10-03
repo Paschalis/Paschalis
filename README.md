@@ -5,6 +5,8 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/paschalis-moschogiannis-38433655/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <br>
+<a href="https://paschalis.github.io/paschalis-site/"><img src="https://img.shields.io/badge/Visit%20My%20Website-97cd3e?style=flat-square&logo=google-chrome&logoColor=white" alt="My Website"></a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
