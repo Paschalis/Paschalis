@@ -165,7 +165,7 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
 
 </ol>     
 
-## Technical Skills
+<!-- ## Technical Skills
 
 - **Programming Skills**: Java (JDBC, JavaFX, JavaMail), C, MySQL, SQL, CSS, System Calls, Git, GStreamer
 - **Electronics**: Knowledge of electronics components and circuits, KiCad
@@ -174,7 +174,7 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
 - **Microcontroller/Processor Knowledge**: STM32, ATmega328P, ATmega2560, ESP32, ESP8266, RP2040
 - **Operating Systems**: Linux
 - **Network**: Wireshark, Nmap, nmcli, tcpdump, Netcat, Hping, Wi-Fi Analyzer (like wavemon, iperf3, iw/iwconfig)
-- **Other**: Docker, Kubernetes, tmux, vim
+- **Other**: Docker, Kubernetes, tmux, vim -->
 
 <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=Paschalis&show_icons=true&hide_title=true"><img src="https://github-readme-stats.vercel.app/api?username=Paschalis&show_icons=true&hide_title=true" alt="GitHub Stats"></a>
