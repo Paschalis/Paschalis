@@ -32,20 +32,26 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
 
 ## <div align="center"> Projects 
 
-1. **Design to PCB** 
+1. **Autonomous UAVs: MAVLink Communication Between FCs and SBCs**
+
+   - This guide demonstrates autonomous UAV control using MAVLink communication between a flight controller and SBCs like Raspberry Pi Zero or Radxa Zero 3W. Includes setup for peripherals (OLED display for status) and camera modules for image processing, object detection, and real-time feedback during missions. 
+   - **Tools used:** C, C++, u8g2, LVGL 
+   - <a href="https://github.com/Paschalis/mavlink-sbc-fc-bridge"><img src="https://img.shields.io/badge/Go_to_repository-mavlink_sbc_fc_bridge-purple?style=for-the-badge&logo=github" alt="MAVLink Communication with SBCs Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/mavlink-sbc-fc-bridge?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/mavlink-sbc-fc-bridge)
+
+2. **Design to PCB** 
 
    - **Description:** A showcase of custom PCB designs and footprints, featuring KiCad schematics and PCB layouts initially designed with CAD modeling, along with unique footprints derived from Inkscape illustrations, converted for KiCad use.
    - **Tools used:** KiCad, FreeCAD, Inkscape
    - <a href="https://github.com/Paschalis/Design2PCB"><img src="https://img.shields.io/badge/Go_to_repository-Design_to_PCB-purple?style=for-the-badge&logo=github" alt="Design to PCB Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/Design2PCB?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/Design2PCB)
    <!-- - [<img src="https://img.shields.io/badge/Go to repository  ➡️-Design%20to%20PCB-purple?style=for-the-badge&logo=github" alt="Design to PCB Repository">](https://github.com/Paschalis/Design2PCB)   [<img src="https://img.shields.io/github/stars/Paschalis/Design2PCB?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/Design2PCB) -->
    <!-- Nice color = 2e5643 -->
-2. **Morse Code Converter**
+3. **Morse Code Converter**
 
    - Description: A terminal-based Morse code converter tool for PC, implemented in both C and C++. This repository serves as a reference implementation for a similar project targeting microcontrollers, the **"MCU Morse Code Decoder"**. 
    - **Tools used:** C, C++
    - <a href="https://github.com/Paschalis/Morse-Code-Converter"><img src="https://img.shields.io/badge/Go_to_repository-Morse_Code_Converter-purple?style=for-the-badge&logo=github" alt="Morse Code Converter Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/Morse-Code-Converter?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/Morse-Code-Converter)
 
-3. **MCU Morse Code Decoder**
+4. **MCU Morse Code Decoder**
    
    - Description: In the demanding environment of a helicopter, the MCU Morse Code Decoder captures audio signals from an ADF receiver via ADC, accurately decodes Morse code patterns, and displays the results alongside dots and dashes on an LCD 2004 display. 
    - Tools used: ATmega328p, ESP32, STM32
@@ -84,7 +90,7 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
    - Description: Demonstrates the integration of various sensors commonly used in agriculture applications on a STM32 microcontroller platform. 
    - Tools used: STM32 (STM32F103C8, STM32F446RE), STM32CubeIDE
    - <a href="https://github.com/Paschalis/STM32-Agriculture"><img src="https://img.shields.io/badge/Go_to_repository-Agriculture Project-purple?style=for-the-badge&logo=github" alt="Agriculture Sensor Integration Project Repository" style="border-radius: 15px;"></a> <img src="https://img.shields.io/badge/In Progress-IN?style=for-the-badge&label=status%20&color=green&logoColor=white&labelColor=black" alt="status"> [<img src="https://img.shields.io/github/stars/Paschalis/STM32-Agriculture?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/STM32-Agriculture)  
- 2. **STM32 Info Monitor**
+2. **STM32 Info Monitor**
    - Description: An STM32 based USB information monitor with an SPI-connected 2-inch IPS LCD display. The project enables communication with a connected PC via USB CDC and displays system information such as hostname, kernel, IP address and CPU usage on the LCD screen.
    - Tools used: STM32 (STM32F103C8, STM32F446RE), STM32CubeIDE, KiCad, FreeCAD
    - <a href="https://github.com/Paschalis/STM32-InfoMonitor"><img src="https://img.shields.io/badge/Go_to_repository-STM32 Info Monitor-purple?style=for-the-badge&logo=github" alt="STM32 Info Monitor Repository" style="border-radius: 15px;"></a> <img src="https://img.shields.io/badge/In Progress-IN?style=for-the-badge&label=status%20&color=green&logoColor=white&labelColor=black" alt="status"> [<img src="https://img.shields.io/github/stars/Paschalis/STM32-InfoMonitor?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/STM32-InfoMonitor)   
