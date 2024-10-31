@@ -36,7 +36,7 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
 
    - This guide demonstrates autonomous UAV control using MAVLink communication between a flight controller and SBCs like Raspberry Pi Zero or Radxa Zero 3W. Includes setup for peripherals (OLED display for status) and camera modules for image processing, object detection, and real-time feedback during missions. 
    - **Tools used:** C, C++, u8g2, LVGL 
-   - <a href="https://github.com/Paschalis/mavlink-sbc-fc-bridge"><img src="https://img.shields.io/badge/Go_to_repository-mavlink_sbc_fc_bridge-purple?style=for-the-badge&logo=github" alt="MAVLink Communication with SBCs Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/mavlink-sbc-fc-bridge?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/mavlink-sbc-fc-bridge)
+   - <a href="https://github.com/Paschalis/mavlink-sbc-fc-bridge"><img src="https://img.shields.io/badge/Go_to_repository-mavlink_sbc_fc_bridge-purple?style=for-the-badge&logo=github" alt="MAVLink Communication with SBCs Repository" style="border-radius: 15px;"></a> <img src="https://img.shields.io/badge/In Progress-IN?style=for-the-badge&label=status%20&color=green&logoColor=white&labelColor=black" alt="status"> [<img src="https://img.shields.io/github/stars/Paschalis/mavlink-sbc-fc-bridge?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/mavlink-sbc-fc-bridge)
 
 2. **Design to PCB** 
 
