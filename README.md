@@ -42,22 +42,28 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
 
    - FC Plus is a modular add-on board for UAV flight controllers, providing advanced telemetry, GPS, object avoidance (ToF, Sonar, IR), and LED indicators for status feedback. This guide covers hardware setup, sensor integration, and communication protocols (LoRa/WiFi) to enhance UAV autonomy and safety.
    - **Tools used:** KiCad, Fusion 360, SolidWorks
-   - <a href="https://github.com/Paschalis/fc-plus-sensor-module"><img src="https://img.shields.io/badge/Go_to_repository-fc_plus_sensor_module-purple?style=for-the-badge&logo=github" alt="MAVLink Communication with SBCs Repository" style="border-radius: 15px;"></a> <img src="https://img.shields.io/badge/In Progress-IN?style=for-the-badge&label=status%20&color=green&logoColor=white&labelColor=black" alt="status"> [<img src="https://img.shields.io/github/stars/Paschalis/fc-plus-sensor-module?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/fc-plus-sensor-module)
+   - <a href="https://github.com/Paschalis/fc-plus-sensor-module"><img src="https://img.shields.io/badge/Go_to_repository-fc_plus_sensor_module-purple?style=for-the-badge&logo=github" alt="FC Plus Sensor Module" style="border-radius: 15px;"></a> <img src="https://img.shields.io/badge/In Progress-IN?style=for-the-badge&label=status%20&color=green&logoColor=white&labelColor=black" alt="status"> [<img src="https://img.shields.io/github/stars/Paschalis/fc-plus-sensor-module?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/fc-plus-sensor-module)
 
-3. **Design to PCB** 
+3. **SwarmPilot: Surveillance UAV Swarm System with Edge AI**
+
+   - SwarmPilot is an autonomous multi-drone control system based on the PX4 flight stack, designed for collaborative UAV operations with edge computing and real-time video transmission capabilities. Ideal for research and development in drone swarming, surveillance, and AI-driven navigation.
+   - **Tools used:** KiCad, Fusion 360, SolidWorks, Gazebo, ROS, MAVSDK
+   - <a href="https://github.com/Paschalis/SwarmPilot"><img src="https://img.shields.io/badge/Go_to_repository-SwarmPilot-purple?style=for-the-badge&logo=github" alt="SwarmPilot" style="border-radius: 15px;"></a> <img src="https://img.shields.io/badge/In Progress-IN?style=for-the-badge&label=status%20&color=green&logoColor=white&labelColor=black" alt="status"> [<img src="https://img.shields.io/github/stars/Paschalis/SwarmPilot?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/SwarmPilot)
+
+4. **Design to PCB** 
 
    - **Description:** A showcase of custom PCB designs and footprints, featuring KiCad schematics and PCB layouts initially designed with CAD modeling, along with unique footprints derived from Inkscape illustrations, converted for KiCad use.
    - **Tools used:** KiCad, FreeCAD, Inkscape
    - <a href="https://github.com/Paschalis/Design2PCB"><img src="https://img.shields.io/badge/Go_to_repository-Design_to_PCB-purple?style=for-the-badge&logo=github" alt="Design to PCB Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/Design2PCB?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/Design2PCB)
    <!-- - [<img src="https://img.shields.io/badge/Go to repository  ➡️-Design%20to%20PCB-purple?style=for-the-badge&logo=github" alt="Design to PCB Repository">](https://github.com/Paschalis/Design2PCB)   [<img src="https://img.shields.io/github/stars/Paschalis/Design2PCB?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/Design2PCB) -->
    <!-- Nice color = 2e5643 -->
-4. **Morse Code Converter**
+5. **Morse Code Converter**
 
    - Description: A terminal-based Morse code converter tool for PC, implemented in both C and C++. This repository serves as a reference implementation for a similar project targeting microcontrollers, the **"MCU Morse Code Decoder"**. 
    - **Tools used:** C, C++
    - <a href="https://github.com/Paschalis/Morse-Code-Converter"><img src="https://img.shields.io/badge/Go_to_repository-Morse_Code_Converter-purple?style=for-the-badge&logo=github" alt="Morse Code Converter Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/Morse-Code-Converter?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/Morse-Code-Converter)
 
-5. **MCU Morse Code Decoder**
+6. **MCU Morse Code Decoder**
    
    - Description: In the demanding environment of a helicopter, the MCU Morse Code Decoder captures audio signals from an ADF receiver via ADC, accurately decodes Morse code patterns, and displays the results alongside dots and dashes on an LCD 2004 display. 
    - Tools used: ATmega328p, ESP32, STM32
