@@ -157,9 +157,10 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
       <details>
          <summary>
             <strong>
-               <img src="https://img.shields.io/badge/🌱 Agriculture Sensor Integration Project-4caf50?style=for-the-badge" alt="🌱 Agriculture Sensor Integration Project">
-               <img src="https://img.shields.io/badge/In Progress-IN?style=for-the-badge&label=status%20&color=orange&logoColor=white&labelColor=black" alt="status">
+               <!-- <img src="https://img.shields.io/badge/🌱 Agriculture Sensor Integration Project-4caf50?style=for-the-badge" alt="🌱 Agriculture Sensor Integration Project"> -->
+               🌱 Agriculture Sensor Integration Project
                <img src="https://img.shields.io/github/stars/Paschalis/STM32-Agriculture?style=for-the-badge&label=⭐%20Stars&color=gold" alt="GitHub stars">
+               <img src="https://img.shields.io/badge/In Progress-IN?style=for-the-badge&label=status%20&color=orange&logoColor=white&labelColor=black" alt="status">
             </strong>
          </summary>
          <div>
@@ -177,9 +178,10 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
       <details>
          <summary>
             <strong>
-               <img src="https://img.shields.io/badge/📟 STM32 Info Monitor-4caf50?style=for-the-badge" alt="📟 STM32 Info Monitor">
-               <img src="https://img.shields.io/badge/In Progress-IN?style=for-the-badge&label=status%20&color=orange&logoColor=white&labelColor=black" alt="status">
+               <!-- <img src="https://img.shields.io/badge/📟 STM32 Info Monitor-4caf50?style=for-the-badge" alt="📟 STM32 Info Monitor"> -->
+               📟 STM32 Info Monitor
                <img src="https://img.shields.io/github/stars/Paschalis/STM32-InfoMonitor?style=for-the-badge&label=⭐%20Stars&color=gold" alt="GitHub stars">
+               <img src="https://img.shields.io/badge/In Progress-IN?style=for-the-badge&label=status%20&color=orange&logoColor=white&labelColor=black" alt="status">
             </strong>
          </summary>
          <div>
