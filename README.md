@@ -69,6 +69,8 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
    - Tools used: ATmega328p, ESP32, STM32
    - <a href="https://github.com/Paschalis/MCU-Morse-Code-Decoder"><img src="https://img.shields.io/badge/Go_to_repository-MCU Morse Code Decoder-purple?style=for-the-badge&logo=github" alt="MCU Morse Code Decoder Repository" style="border-radius: 15px;"></a> <img src="https://img.shields.io/badge/In Progress-IN?style=for-the-badge&label=status%20&color=green&logoColor=white&labelColor=black" alt="status"> [<img src="https://img.shields.io/github/stars/Paschalis/MCU-Morse-Code-Decoder?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/MCU-Morse-Code-Decoder)
 
+---
+
 #### <div align="center">Projects with the Atmel (now Microchip) MCUs (ATmega328P, ATmega2560, ATtiny85) </div>
 
 1. **Sunrise-Sunset Automatic Dimmer**
@@ -87,6 +89,8 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
    - Tools used: ATtiny85, Arduino as ISP, KiCad, FreeCAD, Fusion 360 
    - <a href="https://github.com/Paschalis/Hardware-Login-Key"><img src="https://img.shields.io/badge/Go_to_repository-Hardware Login Key-purple?style=for-the-badge&logo=github" alt="Hardware Login Key Repository" style="border-radius: 15px;"></a> <img src="https://img.shields.io/badge/In Progress-IN?style=for-the-badge&label=status%20&color=green&logoColor=white&labelColor=black" alt="status"> [<img src="https://img.shields.io/github/stars/Paschalis/Hardware-Login-Key?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/Hardware-Login-Key)
 
+---
+
 #### <div align="center"> Projects with the Espressif Systems MCUs (ESP32-S, ESP8266)  </div>
 
 1. **Feline Watchdog: Missing Cat Alert System**
@@ -95,17 +99,58 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
    - Tools used: ESP32-S, Raspberry Pi, KiCad, FreeCAD, Fusion 360
    - <a href="https://github.com/k-antoniou/FelineWatchdog"><img src="https://img.shields.io/badge/Go_to_repository-Feline Watchdog: Missing Cat Alert System-purple?style=for-the-badge&logo=github" alt="Feline Watchdog: Missing Cat Alert System Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/k-antoniou/FelineWatchdog?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/k-antoniou/FelineWatchdog)
 
+---
+
 #### <div align="center"> Projects with the ST MCUs (STM32F103C8, STM32F446RE) </div>
+<p align="center"><em>(click on them to expand)</em></p>
 
-1. **Agriculture Sensor Integration Project**
+<ol style="line-height: 2;">
+   <li>
+      <details>
+         <summary style="display: flex; align-items: center; justify-content: space-between; background: #4caf50; padding: 10px 15px; border-radius: 15px; font-size: 1.1em; color: white; cursor: pointer; font-weight: bold;">
+            🌱 Agriculture Sensor Integration Project
+            <span style="background: black; padding: 5px 10px; border-radius: 10px; font-size: 0.9em; display: flex; align-items: center;">
+               ⏳ In Progress
+               <img src="https://img.shields.io/github/stars/Paschalis/STM32-Agriculture?style=flat-square&label=⭐%20Stars&color=gold&logo=github" alt="Stars" style="margin-left: 10px; vertical-align: middle;">
+            </span>
+         </summary>
+         <div style="padding: 10px; margin-top: 10px; border: 1px solid #4caf50; border-radius: 10px;">
+            <p><strong>Description:</strong> Demonstrates the integration of various sensors commonly used in agriculture applications on an STM32 microcontroller platform.</p>
+            <p><strong>Tools Used:</strong> STM32 (STM32F103C8, STM32F446RE), STM32CubeIDE.</p>
+            <a href="https://github.com/Paschalis/STM32-Agriculture" style="text-decoration: none;">
+               <div style="background: blueviolet; color: white; padding: 10px 15px; text-align: center; border-radius: 10px; font-size: 1em; margin-top: 10px; display: inline-block;">
+                  🌟 Explore Repository
+               </div>
+            </a>
+         </div>
+      </details>
+   </li>
+   <li>
+      <details>
+         <summary style="display: flex; align-items: center; justify-content: space-between; background: #4caf50; padding: 10px 15px; border-radius: 15px; font-size: 1.1em; color: white; cursor: pointer; font-weight: bold;">
+            📟 STM32 Info Monitor
+            <span style="background: black; padding: 5px 10px; border-radius: 10px; font-size: 0.9em; display: flex; align-items: center;">
+               ⏳ In Progress
+               <img src="https://img.shields.io/github/stars/Paschalis/STM32-InfoMonitor?style=flat-square&label=⭐%20Stars&color=gold&logo=github" alt="Stars" style="margin-left: 10px; vertical-align: middle;">
+            </span>
+         </summary>
+         <div style="padding: 10px; margin-top: 10px; border: 1px solid #4caf50; border-radius: 10px;">
+            <p><strong>Description:</strong> An STM32-based USB information monitor with an SPI-connected 2-inch IPS LCD display. Displays system info (hostname, kernel, IP, CPU usage) via USB CDC communication.</p>
+            <p><strong>Tools Used:</strong> STM32 (STM32F103C8, STM32F446RE), STM32CubeIDE, KiCad, FreeCAD.</p>
+            <a href="https://github.com/Paschalis/STM32-InfoMonitor" style="text-decoration: none;">
+               <div style="background: blueviolet; color: white; padding: 10px 15px; text-align: center; border-radius: 10px; font-size: 1em; margin-top: 10px; display: inline-block;">
+                  🌟 Explore Repository
+               </div>
+            </a>
+         </div>
+      </details>
+   </li>
+</ol>
 
-   - Description: Demonstrates the integration of various sensors commonly used in agriculture applications on a STM32 microcontroller platform. 
-   - Tools used: STM32 (STM32F103C8, STM32F446RE), STM32CubeIDE
-   - <a href="https://github.com/Paschalis/STM32-Agriculture"><img src="https://img.shields.io/badge/Go_to_repository-Agriculture Project-purple?style=for-the-badge&logo=github" alt="Agriculture Sensor Integration Project Repository" style="border-radius: 15px;"></a> <img src="https://img.shields.io/badge/In Progress-IN?style=for-the-badge&label=status%20&color=green&logoColor=white&labelColor=black" alt="status"> [<img src="https://img.shields.io/github/stars/Paschalis/STM32-Agriculture?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/STM32-Agriculture)  
-2. **STM32 Info Monitor**
-   - Description: An STM32 based USB information monitor with an SPI-connected 2-inch IPS LCD display. The project enables communication with a connected PC via USB CDC and displays system information such as hostname, kernel, IP address and CPU usage on the LCD screen.
-   - Tools used: STM32 (STM32F103C8, STM32F446RE), STM32CubeIDE, KiCad, FreeCAD
-   - <a href="https://github.com/Paschalis/STM32-InfoMonitor"><img src="https://img.shields.io/badge/Go_to_repository-STM32 Info Monitor-purple?style=for-the-badge&logo=github" alt="STM32 Info Monitor Repository" style="border-radius: 15px;"></a> <img src="https://img.shields.io/badge/In Progress-IN?style=for-the-badge&label=status%20&color=green&logoColor=white&labelColor=black" alt="status"> [<img src="https://img.shields.io/github/stars/Paschalis/STM32-InfoMonitor?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/STM32-InfoMonitor)   
+
+
+
+---
 
 ## <div align="center"> Academic Projects </div>
 
