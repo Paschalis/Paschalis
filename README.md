@@ -1,4 +1,54 @@
-<h1 align="center">Hi 👋, I'm Paschalis</h1>
+<!-- <h1 align="center">Hi 👋, I'm Paschalis</h1> -->
+
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes hi  {
+            0% { transform: rotate( 0.0deg) }
+           10% { transform: rotate(14.0deg) }
+           20% { transform: rotate(-8.0deg) }
+           30% { transform: rotate(14.0deg) }
+           40% { transform: rotate(-4.0deg) }
+           50% { transform: rotate(10.0deg) }
+           60% { transform: rotate( 0.0deg) }
+          100% { transform: rotate( 0.0deg) }
+        }
+
+        .container {
+          background-color: black;
+
+          width: 100%;
+          height: 300px;
+
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          color: white;
+
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        .hi {
+          animation: hi 1.5s linear -0.5s infinite;
+          display: inline-block;
+          transform-origin: 70% 70%;
+        }
+
+        @media (prefers-reduced-motion) {
+          .hi {
+            animation: none;
+          }
+        }
+      </style>
+
+      <div class="container">
+        <h1 align="center">Hi 👋, I'm Paschalis</h1>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
+
 <h3 align="center">Bachelor's degree in Computer Science | Master's student in Electrical Engineering</h3>
 <p align="center">
 I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <strong>Openshift</strong>
@@ -103,7 +153,6 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
 
 #### <div align="center"> Projects with the ST MCUs (STM32F103C8, STM32F446RE) </div>
 <p align="center"><em>(click on them to expand)</em></p>
-
 <ol style="line-height: 2;">
    <li>
       <details>
@@ -146,6 +195,50 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
       </details>
    </li>
 </ol>
+
+<!-- HTML template -->
+<!-- <ol style="line-height: 2;">
+   <li>
+      <details>
+         <summary style="display: flex; align-items: center; justify-content: space-between; background: #4caf50; padding: 10px 15px; border-radius: 15px; font-size: 1.1em; color: white; cursor: pointer; font-weight: bold;">
+            🌱 Agriculture Sensor Integration Project
+            <span style="background: black; padding: 5px 10px; border-radius: 10px; font-size: 0.9em; display: flex; align-items: center;">
+               ⏳ In Progress
+               <img src="https://img.shields.io/github/stars/Paschalis/STM32-Agriculture?style=flat-square&label=⭐%20Stars&color=gold&logo=github" alt="Stars" style="margin-left: 10px; vertical-align: middle;">
+            </span>
+         </summary>
+         <div style="padding: 10px; margin-top: 10px; border: 1px solid #4caf50; border-radius: 10px;">
+            <p><strong>Description:</strong> Demonstrates the integration of various sensors commonly used in agriculture applications on an STM32 microcontroller platform.</p>
+            <p><strong>Tools Used:</strong> STM32 (STM32F103C8, STM32F446RE), STM32CubeIDE.</p>
+            <a href="https://github.com/Paschalis/STM32-Agriculture" style="text-decoration: none;">
+               <div style="background: blueviolet; color: white; padding: 10px 15px; text-align: center; border-radius: 10px; font-size: 1em; margin-top: 10px; display: inline-block;">
+                  🌟 Explore Repository
+               </div>
+            </a>
+         </div>
+      </details>
+   </li>
+   <li>
+      <details>
+         <summary style="display: flex; align-items: center; justify-content: space-between; background: #4caf50; padding: 10px 15px; border-radius: 15px; font-size: 1.1em; color: white; cursor: pointer; font-weight: bold;">
+            📟 STM32 Info Monitor
+            <span style="background: black; padding: 5px 10px; border-radius: 10px; font-size: 0.9em; display: flex; align-items: center;">
+               ⏳ In Progress
+               <img src="https://img.shields.io/github/stars/Paschalis/STM32-InfoMonitor?style=flat-square&label=⭐%20Stars&color=gold&logo=github" alt="Stars" style="margin-left: 10px; vertical-align: middle;">
+            </span>
+         </summary>
+         <div style="padding: 10px; margin-top: 10px; border: 1px solid #4caf50; border-radius: 10px;">
+            <p><strong>Description:</strong> An STM32-based USB information monitor with an SPI-connected 2-inch IPS LCD display. Displays system info (hostname, kernel, IP, CPU usage) via USB CDC communication.</p>
+            <p><strong>Tools Used:</strong> STM32 (STM32F103C8, STM32F446RE), STM32CubeIDE, KiCad, FreeCAD.</p>
+            <a href="https://github.com/Paschalis/STM32-InfoMonitor" style="text-decoration: none;">
+               <div style="background: blueviolet; color: white; padding: 10px 15px; text-align: center; border-radius: 10px; font-size: 1em; margin-top: 10px; display: inline-block;">
+                  🌟 Explore Repository
+               </div>
+            </a>
+         </div>
+      </details>
+   </li>
+</ol> -->
 
 
 
