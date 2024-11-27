@@ -153,21 +153,48 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
 
 
 <ol style="line-height: 2;">
-   <li><details>
-   <summary><strong><img src="https://img.shields.io/badge/🌱 Agriculture Sensor Integration Project-4caf50?style=for-the-badge" alt="🌱 Agriculture Sensor Integration Project"></strong> <img src="https://img.shields.io/badge/In Progress-IN?style=for-the-badge&label=status%20&color=orange&logoColor=white&labelColor=black" alt="status"> <img src="https://img.shields.io/github/stars/Paschalis/STM32-Agriculture?style=for-the-badge&label=⭐%20Stars&color=gold"alt="GitHub stars"></summary>
+   <li>
+      <details>
+         <summary>
+            <strong>
+               <img src="https://img.shields.io/badge/🌱 Agriculture Sensor Integration Project-4caf50?style=for-the-badge" alt="🌱 Agriculture Sensor Integration Project">
+               <img src="https://img.shields.io/badge/In Progress-IN?style=for-the-badge&label=status%20&color=orange&logoColor=white&labelColor=black" alt="status">
+               <img src="https://img.shields.io/github/stars/Paschalis/STM32-Agriculture?style=for-the-badge&label=⭐%20Stars&color=gold" alt="GitHub stars">
+            </strong>
+         </summary>
+         <div>
+            <ul>
+               <li>Description: Demonstrates the integration of various sensors commonly used in agriculture applications on an STM32 microcontroller platform.</li>
+               <li>Tools used: STM32 (STM32F103C8, STM32F446RE), STM32CubeIDE</li>
+            </ul>
+            <a href="https://github.com/Paschalis/STM32-Agriculture">
+               <img src="https://img.shields.io/badge/🌟 Explore Repository-8a2be2?style=for-the-badge" alt="Explore Repository" style="width: 250px;">
+            </a>
+         </div>
+      </details>
+   </li>
+   <li>
+      <details>
+         <summary>
+            <strong>
+               <img src="https://img.shields.io/badge/📟 STM32 Info Monitor-4caf50?style=for-the-badge" alt="📟 STM32 Info Monitor">
+               <img src="https://img.shields.io/badge/In Progress-IN?style=for-the-badge&label=status%20&color=orange&logoColor=white&labelColor=black" alt="status">
+               <img src="https://img.shields.io/github/stars/Paschalis/STM32-InfoMonitor?style=for-the-badge&label=⭐%20Stars&color=gold" alt="GitHub stars">
+            </strong>
+         </summary>
+         <div>
+            <ul>
+               <li>Description: An STM32-based USB information monitor with an SPI-connected 2-inch IPS LCD display. Displays system info (hostname, kernel, IP, CPU usage) via USB CDC communication.</li>
+               <li>Tools used: STM32 (STM32F103C8, STM32F446RE), STM32CubeIDE</li>
+            </ul>
+            <a href="https://github.com/Paschalis/STM32-InfoMonitor">
+               <img src="https://img.shields.io/badge/🌟 Explore Repository-8a2be2?style=for-the-badge" alt="Explore Repository" style="width: 250px;">
+            </a>
+         </div>
+      </details>
+   </li>
+</ol>
 
-   - Description: Demonstrates the integration of various sensors commonly used in agriculture applications on an STM32 microcontroller platform.
-   - Tools used: STM32 (STM32F103C8, STM32F446RE), STM32CubeIDE
-   - <a href="https://github.com/Paschalis/STM32-Agriculture"><img src="https://img.shields.io/badge/🌟 Explore Repository-8a2be2?style=for-the-badge" alt="📟 STM32 Info Monitor" style="width: 250px;"></a>
-   </details></li>
-   <li><details>
-   <summary><strong><img src="https://img.shields.io/badge/📟 STM32 Info Monitor-4caf50?style=for-the-badge" alt="📟 STM32 Info Monitor"></strong> <img src="https://img.shields.io/badge/In Progress-IN?style=for-the-badge&label=status%20&color=orange&logoColor=white&labelColor=black" alt="status"> <img src="https://img.shields.io/github/stars/Paschalis/STM32-InfoMonitor?style=for-the-badge&label=⭐%20Stars&color=gold"alt="GitHub stars"></summary>
-
-   - Description: An STM32-based USB information monitor with an SPI-connected 2-inch IPS LCD display. Displays system info (hostname, kernel, IP, CPU usage) via USB CDC communication.
-   - Tools used: STM32 (STM32F103C8, STM32F446RE), STM32CubeIDE
-   - <a href="https://github.com/Paschalis/STM32-InfoMonitor"><img src="https://img.shields.io/badge/🌟 Explore Repository-8a2be2?style=for-the-badge" alt="📟 STM32 Info Monitor" style="width: 250px;"></a>
-   </details></li>
-</ol> 
 
 ---
 
