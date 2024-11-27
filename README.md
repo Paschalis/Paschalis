@@ -147,6 +147,108 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
    </li>
 </ol>
 
+
+
+
+
+<ol style="line-height: 2;">
+   <li>
+      <details>
+         <summary style="display: flex; align-items: center; justify-content: space-between; background: #4caf50; padding: 10px 15px; border-radius: 15px; font-size: 1.1em; color: white; cursor: pointer; font-weight: bold;">
+            🌱 Agriculture Sensor Integration Project
+            <span style="background: black; padding: 5px 10px; border-radius: 10px; font-size: 0.9em; display: flex; align-items: center;">
+               ⏳ In Progress
+               <img src="https://img.shields.io/github/stars/Paschalis/STM32-Agriculture?style=flat-square&label=⭐%20Stars&color=gold&logo=github" alt="Stars" style="margin-left: 10px; vertical-align: middle;">
+            </span>
+         </summary>
+         <div style="padding: 10px; margin-top: 10px; border: 2px solid #4caf50; border-radius: 10px; background-color: #f9f9f9;">
+            <p><strong>Description:</strong> Demonstrates the integration of various sensors commonly used in agriculture applications on an STM32 microcontroller platform.</p>
+            <p><strong>Tools Used:</strong> STM32 (STM32F103C8, STM32F446RE), STM32CubeIDE.</p>
+            <a href="https://github.com/Paschalis/STM32-Agriculture" style="text-decoration: none;">
+               <div style="background: blueviolet; color: white; padding: 10px 15px; text-align: center; border-radius: 10px; font-size: 1em; margin-top: 10px; display: inline-block;">
+                  🌟 Explore Repository
+               </div>
+            </a>
+         </div>
+      </details>
+   </li>
+   <li>
+      <details>
+         <summary style="display: flex; align-items: center; justify-content: space-between; background: #4caf50; padding: 10px 15px; border-radius: 15px; font-size: 1.1em; color: white; cursor: pointer; font-weight: bold;">
+            📟 STM32 Info Monitor
+            <span style="background: black; padding: 5px 10px; border-radius: 10px; font-size: 0.9em; display: flex; align-items: center;">
+               ⏳ In Progress
+               <img src="https://img.shields.io/github/stars/Paschalis/STM32-InfoMonitor?style=flat-square&label=⭐%20Stars&color=gold&logo=github" alt="Stars" style="margin-left: 10px; vertical-align: middle;">
+            </span>
+         </summary>
+         <div style="padding: 10px; margin-top: 10px; border: 2px solid #4caf50; border-radius: 10px; background-color: #f9f9f9;">
+            <p><strong>Description:</strong> An STM32-based USB information monitor with an SPI-connected 2-inch IPS LCD display. Displays system info (hostname, kernel, IP, CPU usage) via USB CDC communication.</p>
+            <p><strong>Tools Used:</strong> STM32 (STM32F103C8, STM32F446RE), STM32CubeIDE, KiCad, FreeCAD.</p>
+            <a href="https://github.com/Paschalis/STM32-InfoMonitor" style="text-decoration: none;">
+               <div style="background: blueviolet; color: white; padding: 10px 15px; text-align: center; border-radius: 10px; font-size: 1em; margin-top: 10px; display: inline-block;">
+                  🌟 Explore Repository
+               </div>
+            </a>
+         </div>
+      </details>
+   </li>
+</ol>
+
+
+
+
+
+
+
+
+
+<ol style="line-height: 2;">
+   <li>
+      <details>
+         <summary>
+            <strong>
+               🌱 Agriculture Sensor Integration Project
+               <span style="background-color: #4caf50; padding: 3px 10px; border-radius: 15px; font-size: 1.1em; color: white;">
+                  ⏳ In Progress
+               </span>
+               <a href="https://github.com/Paschalis/STM32-Agriculture">
+                  <img src="https://img.shields.io/github/stars/Paschalis/STM32-Agriculture?style=flat-square&label=⭐%20Stars&color=gold&logo=github" alt="Stars" />
+               </a>
+            </strong>
+         </summary>
+         <div style="padding: 10px 15px;">
+            <p><strong>Description:</strong> Demonstrates the integration of various sensors commonly used in agriculture applications on an STM32 microcontroller platform.</p>
+            <p><strong>Tools Used:</strong> STM32 (STM32F103C8, STM32F446RE), STM32CubeIDE.</p>
+            <a href="https://github.com/Paschalis/STM32-Agriculture">
+               <img src="https://img.shields.io/badge/Explore%20Repository-Click%20Here-9cf?style=for-the-badge&logo=github" alt="Explore Repository" />
+            </a>
+         </div>
+      </details>
+   </li>
+   <li>
+      <details>
+         <summary>
+            <strong>
+               📟 STM32 Info Monitor
+               <span style="background-color: #4caf50; padding: 3px 10px; border-radius: 15px; font-size: 1.1em; color: white;">
+                  ⏳ In Progress
+               </span>
+               <a href="https://github.com/Paschalis/STM32-InfoMonitor">
+                  <img src="https://img.shields.io/github/stars/Paschalis/STM32-InfoMonitor?style=flat-square&label=⭐%20Stars&color=gold&logo=github" alt="Stars" />
+               </a>
+            </strong>
+         </summary>
+         <div style="padding: 10px 15px;">
+            <p><strong>Description:</strong> An STM32-based USB information monitor with an SPI-connected 2-inch IPS LCD display. Displays system info (hostname, kernel, IP, CPU usage) via USB CDC communication.</p>
+            <p><strong>Tools Used:</strong> STM32 (STM32F103C8, STM32F446RE), STM32CubeIDE, KiCad, FreeCAD.</p>
+            <a href="https://github.com/Paschalis/STM32-InfoMonitor">
+               <img src="https://img.shields.io/badge/Explore%20Repository-Click%20Here-9cf?style=for-the-badge&logo=github" alt="Explore Repository" />
+            </a>
+         </div>
+      </details>
+   </li>
+</ol>
+
 <!-- HTML template -->
 <!-- <ol style="line-height: 2;">
    <li>
