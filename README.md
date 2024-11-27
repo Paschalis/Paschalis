@@ -102,52 +102,9 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
 
 ---
 #### <div align="center"> Projects with the ST MCUs (STM32F103C8, STM32F446RE) </div>
-
-#### <div align="center"> Projects with the ST MCUs (STM32F103C8, STM32F446RE) </div>
 <p align="center"><em>(click on them to expand)</em></p>
 
-<ol style="line-height: 2;">
-   <li>
-      <details>
-         <summary style="background-color: #4caf50; padding: 10px 15px; border-radius: 12px; color: white; cursor: pointer; font-weight: bold;">
-            🌱 Agriculture Sensor Integration Project
-            <span style="background: black; padding: 5px 10px; border-radius: 10px; font-size: 0.9em; display: flex; align-items: center;">
-               ⏳ In Progress
-               <img src="https://img.shields.io/github/stars/Paschalis/STM32-Agriculture?style=flat-square&label=⭐%20Stars&color=gold&logo=github" alt="Stars" style="margin-left: 10px; vertical-align: middle;">
-            </span>
-         </summary>
-         <div style="background-color: #f9f9f9; border-left: 5px solid #4caf50; padding: 15px; border-radius: 10px; margin-top: 10px;">
-            <p><strong>Description:</strong> Demonstrates the integration of various sensors commonly used in agriculture applications on an STM32 microcontroller platform.</p>
-            <p><strong>Tools Used:</strong> STM32 (STM32F103C8, STM32F446RE), STM32CubeIDE.</p>
-            <a href="https://github.com/Paschalis/STM32-Agriculture" style="text-decoration: none;">
-               <div style="background: blueviolet; color: white; padding: 10px 15px; text-align: center; border-radius: 10px; font-size: 1em; margin-top: 10px; display: inline-block;">
-                  🌟 Explore Repository
-               </div>
-            </a>
-         </div>
-      </details>
-   </li>
-   <li>
-      <details>
-         <summary style="background-color: #4caf50; padding: 10px 15px; border-radius: 12px; color: white; cursor: pointer; font-weight: bold;">
-            📟 STM32 Info Monitor
-            <span style="background: black; padding: 5px 10px; border-radius: 10px; font-size: 0.9em; display: flex; align-items: center;">
-               ⏳ In Progress
-               <img src="https://img.shields.io/github/stars/Paschalis/STM32-InfoMonitor?style=flat-square&label=⭐%20Stars&color=gold&logo=github" alt="Stars" style="margin-left: 10px; vertical-align: middle;">
-            </span>
-         </summary>
-         <div style="background-color: #f9f9f9; border-left: 5px solid #4caf50; padding: 15px; border-radius: 10px; margin-top: 10px;">
-            <p><strong>Description:</strong> An STM32-based USB information monitor with an SPI-connected 2-inch IPS LCD display. Displays system info (hostname, kernel, IP, CPU usage) via USB CDC communication.</p>
-            <p><strong>Tools Used:</strong> STM32 (STM32F103C8, STM32F446RE), STM32CubeIDE, KiCad, FreeCAD.</p>
-            <a href="https://github.com/Paschalis/STM32-InfoMonitor" style="text-decoration: none;">
-               <div style="background: blueviolet; color: white; padding: 10px 15px; text-align: center; border-radius: 10px; font-size: 1em; margin-top: 10px; display: inline-block;">
-                  🌟 Explore Repository
-               </div>
-            </a>
-         </div>
-      </details>
-   </li>
-</ol>
+
 
 
 <!-- HTML template -->
@@ -195,7 +152,22 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
 </ol> -->
 
 
+<ol style="line-height: 2;">
+   <li><details>
+   <summary><strong><img src="https://img.shields.io/badge/🌱 Agriculture Sensor Integration Project-4caf50?style=for-the-badge" alt="🌱 Agriculture Sensor Integration Project"></strong> <img src="https://img.shields.io/badge/In Progress-IN?style=for-the-badge&label=status%20&color=orange&logoColor=white&labelColor=black" alt="status"> <img src="https://img.shields.io/github/stars/Paschalis/STM32-Agriculture?style=for-the-badge&label=⭐%20Stars&color=gold"alt="GitHub stars"></summary>
 
+   - Description: Demonstrates the integration of various sensors commonly used in agriculture applications on an STM32 microcontroller platform.
+   - Tools used: STM32 (STM32F103C8, STM32F446RE), STM32CubeIDE
+   - <a href="https://github.com/Paschalis/STM32-Agriculture"><img src="https://img.shields.io/badge/🌟 Explore Repository-8a2be2?style=for-the-badge" alt="📟 STM32 Info Monitor" style="width: 250px;"></a>
+   </details></li>
+   <li><details>
+   <summary><strong><img src="https://img.shields.io/badge/📟 STM32 Info Monitor-4caf50?style=for-the-badge" alt="📟 STM32 Info Monitor"></strong> <img src="https://img.shields.io/badge/In Progress-IN?style=for-the-badge&label=status%20&color=orange&logoColor=white&labelColor=black" alt="status"> <img src="https://img.shields.io/github/stars/Paschalis/STM32-InfoMonitor?style=for-the-badge&label=⭐%20Stars&color=gold"alt="GitHub stars"></summary>
+
+   - Description: An STM32-based USB information monitor with an SPI-connected 2-inch IPS LCD display. Displays system info (hostname, kernel, IP, CPU usage) via USB CDC communication.
+   - Tools used: STM32 (STM32F103C8, STM32F446RE), STM32CubeIDE
+   - <a href="https://github.com/Paschalis/STM32-InfoMonitor"><img src="https://img.shields.io/badge/🌟 Explore Repository-8a2be2?style=for-the-badge" alt="📟 STM32 Info Monitor" style="width: 250px;"></a>
+   </details></li>
+</ol> 
 
 ---
 
@@ -272,7 +244,7 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
    - Tools used: iperf3, traceroute (Linux), tracert (Windows), Cisco Packet Tracer, GNS3
    - <a href="https://github.com/Paschalis/Networking-CCST-Exam-Prep"><img src="https://img.shields.io/badge/Go_to_repository-CCST Networking Exam Preparation-purple?style=for-the-badge&logo=github" alt="CCST Networking Exam Preparation" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/Networking-CCST-Exam-Prep?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/Networking-CCST-Exam-Prep) 
    </details></li>
-
+   
 </ol>     
 
 <!-- ## Technical Skills
