@@ -106,11 +106,14 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
 
    </details></li>
    <li><details>
-   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">VHF Communications Transceiver Control System/strong></summary>
+   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">VHF Communications Transceiver Control System</strong></summary>
    
    - Description: Arduino-based control system for VHF transceivers, featuring keypad input, 7-segment display output, and BCD frequency encoding for enhanced communication efficiency. 
+   
    - Tools used: Arduino IDE, ATmega2560, Shift Registers 74HC595, 74HC165
+   
    - <a href="https://github.com/Paschalis/VHF-Transceiver-Control-System"><img src="https://img.shields.io/badge/Go_to_repository-VHF Communications Transceiver Control System-purple?style=for-the-badge&logo=github" alt="VHF Communications Transceiver Control System Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/VHF-Transceiver-Control-System?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/VHF-Transceiver-Control-System)
+   
    </details></li>
    <li><details>
    <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">Hardware Login Key</strong></summary>
