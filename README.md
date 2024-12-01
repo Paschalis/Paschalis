@@ -59,7 +59,7 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
 
 4. **LaTeX Business Cards: Stylish & Customizable Templates** 
 
-   - **Description:**  A collection of customizable LaTeX templates for creating professional and themed business cards, including support for QR codes, icons, and various layouts. 
+   - A collection of customizable LaTeX templates for creating professional and themed business cards, including support for QR codes, icons, and various layouts.  
    
    - **Tools used:** LaTeX
    
@@ -67,7 +67,7 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
   
 5. **Design to PCB** 
 
-   - **Description:** A showcase of custom PCB designs and footprints, featuring KiCad schematics and PCB layouts initially designed with CAD modeling, along with unique footprints derived from Inkscape illustrations, converted for KiCad use.
+   - A showcase of custom PCB designs and footprints, featuring KiCad schematics and PCB layouts initially designed with CAD modeling, along with unique footprints derived from Inkscape illustrations, converted for KiCad use.
    
    - **Tools used:** KiCad, FreeCAD, Inkscape
    
@@ -76,7 +76,7 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
 
 6. **Morse Code Converter**
 
-   - Description: A terminal-based Morse code converter tool for PC, implemented in both C and C++. This repository serves as a reference implementation for a similar project targeting microcontrollers, the **"MCU Morse Code Decoder"**. 
+   - A terminal-based Morse code converter tool for PC, implemented in both C and C++. This repository serves as a reference implementation for a similar project targeting microcontrollers, the **"MCU Morse Code Decoder"**. 
    
    - **Tools used:** C, C++
    
@@ -84,15 +84,17 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
 
 7. **MCU Morse Code Decoder**
    
-   - Description: In the demanding environment of a helicopter, the MCU Morse Code Decoder captures audio signals from an ADF receiver via ADC, accurately decodes Morse code patterns, and displays the results alongside dots and dashes on an LCD 2004 display. 
+   - In the demanding environment of a helicopter, the MCU Morse Code Decoder captures audio signals from an ADF receiver via ADC, accurately decodes Morse code patterns, and displays the results alongside dots and dashes on an LCD 2004 display. 
    
-   - Tools used: ATmega328p, ESP32, STM32
+   - **Tools used:** ATmega328p, ESP32, STM32
    
    - <a href="https://github.com/Paschalis/MCU-Morse-Code-Decoder"><img src="https://img.shields.io/badge/Go_to_repository-MCU Morse Code Decoder-purple?style=for-the-badge&logo=github" alt="MCU Morse Code Decoder Repository" style="border-radius: 15px;"></a> <img src="https://img.shields.io/badge/In Progress-IN?style=for-the-badge&label=status%20&color=green&logoColor=white&labelColor=black" alt="status"> [<img src="https://img.shields.io/github/stars/Paschalis/MCU-Morse-Code-Decoder?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/MCU-Morse-Code-Decoder)
 
 ---
 
-#### <div align="center">Projects with the Atmel (now Microchip) MCUs (ATmega328P, ATmega2560, ATtiny85) </div>
+### <div align="center">Projects with the Atmel (now Microchip) MCUs (ATmega328P, ATmega2560, ATtiny85) </div>
+
+<p align="center"><em>(click on them to expand)</em></p>
 
 <ol style="line-height: 2;">
    <li><details>
@@ -100,7 +102,7 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
 
    - Description: This system allows for precise dimming control through an IRF740 Power MOSFET, driven by user-configurable timers and a 4n35 optocoupler for seamless sunrise and sunset simulation, optimizing lighting conditions in poultry farms.
    
-   - Tools used: Arduino IDE, ATmega328P, KiCad
+   - **Tools used:** Arduino IDE, ATmega328P, KiCad
    
    - <a href="https://github.com/Paschalis/SunriseSunsetACDimmer"><img src="https://img.shields.io/badge/Go_to_repository-Sunrise Sunset Automatic Dimmer-purple?style=for-the-badge&logo=github" alt="Sunrise-Sunset Automatic Dimmer Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/SunriseSunsetACDimmer?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/SunriseSunsetACDimmer)
 
@@ -110,7 +112,7 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
    
    - Description: Arduino-based control system for VHF transceivers, featuring keypad input, 7-segment display output, and BCD frequency encoding for enhanced communication efficiency. 
    
-   - Tools used: Arduino IDE, ATmega2560, Shift Registers 74HC595, 74HC165
+   - **Tools used:** Arduino IDE, ATmega2560, Shift Registers 74HC595, 74HC165
    
    - <a href="https://github.com/Paschalis/VHF-Transceiver-Control-System"><img src="https://img.shields.io/badge/Go_to_repository-VHF Communications Transceiver Control System-purple?style=for-the-badge&logo=github" alt="VHF Communications Transceiver Control System Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/VHF-Transceiver-Control-System?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/VHF-Transceiver-Control-System)
    
@@ -120,7 +122,7 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
    
    - Description: This project provides a simple solution for securely logging into a system or website using a hardware key. By pressing a physical button connected to an ATtiny85 microcontroller, users can automate the login process, reducing the risk of password exposure.
    
-   - Tools used: ATtiny85, Arduino as ISP, KiCad, FreeCAD, Fusion 360 
+   - **Tools used:** ATtiny85, Arduino as ISP, KiCad, FreeCAD, Fusion 360 
    
    - <a href="https://github.com/Paschalis/Hardware-Login-Key"><img src="https://img.shields.io/badge/Go_to_repository-Hardware Login Key-purple?style=for-the-badge&logo=github" alt="Hardware Login Key Repository" style="border-radius: 15px;"></a> <img src="https://img.shields.io/badge/In Progress-IN?style=for-the-badge&label=status%20&color=green&logoColor=white&labelColor=black" alt="status"> [<img src="https://img.shields.io/github/stars/Paschalis/Hardware-Login-Key?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/Hardware-Login-Key)
 
@@ -128,15 +130,17 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
 
 ---
 
-#### <div align="center"> Projects with the Espressif Systems MCUs (ESP32-S, ESP8266)  </div>
+### <div align="center"> Projects with the Espressif Systems MCUs (ESP32-S, ESP8266)  </div>
+
+<p align="center"><em>(click on them to expand)</em></p>
 
 <ol style="line-height: 2;">
    <li><details>
    <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">Attendance Management System</strong></summary>
 
-   - Description: Advanced Topics in Speech and Language Processing.
+   -  An attendance management system that automates employee attendance tracking using RFID technology. It supports multiple implementations, offering flexibility in integration with different technologies. The system enables syncing data from RFID devices, viewing attendance history, and exporting reports. 
    
-   - Tools used: MATLAB, Praat, SoX
+   - **Tools used:** ESP32-S, KiCad, SolidWorks, Fusion 360
    
    - <a href="https://github.com/Paschalis/VoiceMeld"><img src="https://img.shields.io/badge/Go_to_repository-Voice Processing and Synthesis Project-purple?style=for-the-badge&logo=github" alt="Voice Processing and Synthesis Project Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/VoiceMeld?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/VoiceMeld) 
    
@@ -144,16 +148,17 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
    <li><details>
    <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">Feline Watchdog: Missing Cat Alert System</strong></summary>
    
-   - Description: An ESP32-based system to alert you when your cat goes missing. Monitors Wi-Fi connection between your cat's collar-mounted ESP32 device and an Embedded System. Notifications sent to your iOS or Android device using ntfy and Docker. Peace of mind for cat owners.
+   - An ESP32-based system to alert you when your cat goes missing. Monitors Wi-Fi connection between your cat's collar-mounted ESP32 device and an Embedded System. Notifications sent to your iOS or Android device using ntfy and Docker. Peace of mind for cat owners.
    
-   - Tools used: ESP32-S, Raspberry Pi, KiCad, FreeCAD, Fusion 360
+   - **Tools used:** ESP32-S, Raspberry Pi, KiCad, FreeCAD, Fusion 360
    
    - <a href="https://github.com/k-antoniou/FelineWatchdog"><img src="https://img.shields.io/badge/Go_to_repository-Feline Watchdog: Missing Cat Alert System-purple?style=for-the-badge&logo=github" alt="Feline Watchdog: Missing Cat Alert System Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/k-antoniou/FelineWatchdog?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/k-antoniou/FelineWatchdog)
 </ol>
 
    
 ---
-#### <div align="center"> Projects with the ST MCUs (STM32F103C8, STM32F446RE) </div>
+### <div align="center"> Projects with the ST MCUs (STM32F103C8, STM32F446RE) </div>
+
 <p align="center"><em>(click on them to expand)</em></p>
 
 
@@ -210,7 +215,7 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
          <summary>
             <strong>
                <!-- <img src="https://img.shields.io/badge/🌱 Agriculture Sensor Integration Project-4caf50?style=for-the-badge" alt="🌱 Agriculture Sensor Integration Project"> -->
-               🌱 Agriculture Sensor Integration Project
+               Agriculture Sensor Integration Project
             </strong>
          </summary>
          <div>
@@ -229,7 +234,7 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
          <summary>
             <strong>
                <!-- <img src="https://img.shields.io/badge/📟 STM32 Info Monitor-4caf50?style=for-the-badge" alt="📟 STM32 Info Monitor"> -->
-               📟 STM32 Info Monitor
+               STM32 Info Monitor
             </strong>
          </summary>
          <div>
