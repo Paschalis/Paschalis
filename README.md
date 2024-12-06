@@ -142,7 +142,7 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
    
    - **Tools used:** ESP32-S, KiCad, SolidWorks, Fusion 360
    
-   - <a href="https://github.com/Paschalis/VoiceMeld"><img src="https://img.shields.io/badge/Go_to_repository-Voice Processing and Synthesis Project-purple?style=for-the-badge&logo=github" alt="Voice Processing and Synthesis Project Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/VoiceMeld?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/VoiceMeld) 
+   - <a href="https://github.com/Paschalis/RFID-AttendTrack"><img src="https://img.shields.io/badge/Go_to_repository-Attendance Management System-purple?style=for-the-badge&logo=github" alt="Attendance Management System" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/RFID-AttendTrack?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/RFID-AttendTrack) 
    
    </details></li>
    <li><details>
