@@ -57,7 +57,15 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
    
    - <a href="https://github.com/Paschalis/SwarmPilot"><img src="https://img.shields.io/badge/Go_to_repository-SwarmPilot-purple?style=for-the-badge&logo=github" alt="SwarmPilot" style="border-radius: 15px;"></a> <img src="https://img.shields.io/badge/In Progress-IN?style=for-the-badge&label=status%20&color=green&logoColor=white&labelColor=black" alt="status"> [<img src="https://img.shields.io/github/stars/Paschalis/SwarmPilot?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/SwarmPilot)
 
-4. **LaTeX Business Cards: Stylish & Customizable Templates** 
+4. **Servo-Based Antenna Alignment for Video Transmission**
+
+   - A system to optimize Wi-Fi signal strength for video transmission by rotating a directional antenna using a servo motor. Supports Raspberry Pi Zero 2 W and Radxa Zero 3W with GPIO libraries (wiringPi for Raspberry Pi and libgpiod for Radxa). Ideal for UAV video streaming, it ensures automatic antenna alignment with the strongest signal.
+   
+   - **Tools used:** KiCad, Fusion 360, SolidWorks
+   
+   - <a href="https://github.com/Paschalis/servo-antenna-align"><img src="https://img.shields.io/badge/Go_to_repository-servo_antenna_align-purple?style=for-the-badge&logo=github" alt="SwarmPilot" style="border-radius: 15px;"></a> <img src="https://img.shields.io/badge/In Progress-IN?style=for-the-badge&label=status%20&color=green&logoColor=white&labelColor=black" alt="status"> [<img src="https://img.shields.io/github/stars/Paschalis/SwarmPilot?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/servo-antenna-align)
+
+5. **LaTeX Business Cards: Stylish & Customizable Templates** 
 
    - A collection of customizable LaTeX templates for creating professional and themed business cards, including support for QR codes, icons, and various layouts.  
    
@@ -65,7 +73,7 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
    
    - <a href="https://github.com/Paschalis/latex-business-cards"><img src="https://img.shields.io/badge/Go_to_repository-latex_business_cards -purple?style=for-the-badge&logo=github" alt="LaTeX Business Cards Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/latex-business-cards ?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/latex-business-cards)
   
-5. **Design to PCB** 
+6. **Design to PCB** 
 
    - A showcase of custom PCB designs and footprints, featuring KiCad schematics and PCB layouts initially designed with CAD modeling, along with unique footprints derived from Inkscape illustrations, converted for KiCad use.
    
@@ -74,7 +82,7 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
    - <a href="https://github.com/Paschalis/Design2PCB"><img src="https://img.shields.io/badge/Go_to_repository-Design_to_PCB-purple?style=for-the-badge&logo=github" alt="Design to PCB Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/Design2PCB?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/Design2PCB)
   
 
-6. **Morse Code Converter**
+7. **Morse Code Converter**
 
    - A terminal-based Morse code converter tool for PC, implemented in both C and C++. This repository serves as a reference implementation for a similar project targeting microcontrollers, the **"MCU Morse Code Decoder"**. 
    
@@ -82,7 +90,7 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
    
    - <a href="https://github.com/Paschalis/Morse-Code-Converter"><img src="https://img.shields.io/badge/Go_to_repository-Morse_Code_Converter-purple?style=for-the-badge&logo=github" alt="Morse Code Converter Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/Morse-Code-Converter?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/Morse-Code-Converter)
 
-7. **MCU Morse Code Decoder**
+8. **MCU Morse Code Decoder**
    
    - In the demanding environment of a helicopter, the MCU Morse Code Decoder captures audio signals from an ADF receiver via ADC, accurately decodes Morse code patterns, and displays the results alongside dots and dashes on an LCD 2004 display. 
    
