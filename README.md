@@ -41,7 +41,15 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
    
    - <a href="https://github.com/Paschalis/mavlink-sbc-fc-bridge"><img src="https://img.shields.io/badge/Go_to_repository-mavlink_sbc_fc_bridge-purple?style=for-the-badge&logo=github" alt="MAVLink Communication with SBCs Repository" style="border-radius: 15px;"></a> <img src="https://img.shields.io/badge/In Progress-IN?style=for-the-badge&label=status%20&color=green&logoColor=white&labelColor=black" alt="status"> [<img src="https://img.shields.io/github/stars/Paschalis/mavlink-sbc-fc-bridge?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/mavlink-sbc-fc-bridge)
 
-2. **FC Plus Sensor Module: Enhancing UAV Telemetry, Navigation, and Safety**
+2. **UAV-TelemetryLink: Custom RX/TX Board Designs for GCS Communication**
+
+   - Custom RX/TX board designs for UAV telemetry, featuring approaches to Antenna Diversity, True Diversity, Gemini Mode (Single Band), and GemX (Dual Band). These designs provide reliable long-range communication with low latency, utilizing true diversity hardware and LoRa chips for enhanced performance across single and dual bands.
+   
+   - **Tools used:** KiCad, Fusion 360, SolidWorks
+   
+   - <a href="https://github.com/TeodoraMiu/UAV-TelemetryLink"><img src="https://img.shields.io/badge/Go_to_repository-UAV_Telemetry_Link-purple?style=for-the-badge&logo=github" alt="UAV-TelemetryLink" style="border-radius: 15px;"></a> <img src="https://img.shields.io/badge/In Progress-IN?style=for-the-badge&label=status%20&color=green&logoColor=white&labelColor=black" alt="status"> [<img src="https://img.shields.io/github/stars/TeodoraMiu/UAV-TelemetryLink?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/TeodoraMiu/UAV-TelemetryLink)
+
+3. **FC Plus Sensor Module: Enhancing UAV Telemetry, Navigation, and Safety**
 
    - FC Plus is a modular add-on board for UAV flight controllers, providing advanced telemetry, GPS, object avoidance (ToF, Sonar, IR), and LED indicators for status feedback. This guide covers hardware setup, sensor integration, and communication protocols (LoRa/WiFi) to enhance UAV autonomy and safety.
    
@@ -49,7 +57,7 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
    
    - <a href="https://github.com/Paschalis/fc-plus-sensor-module"><img src="https://img.shields.io/badge/Go_to_repository-fc_plus_sensor_module-purple?style=for-the-badge&logo=github" alt="FC Plus Sensor Module" style="border-radius: 15px;"></a> <img src="https://img.shields.io/badge/In Progress-IN?style=for-the-badge&label=status%20&color=green&logoColor=white&labelColor=black" alt="status"> [<img src="https://img.shields.io/github/stars/Paschalis/fc-plus-sensor-module?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/fc-plus-sensor-module)
 
-3. **SwarmPilot: Surveillance UAV Swarm System with Edge AI**
+4. **SwarmPilot: Surveillance UAV Swarm System with Edge AI**
 
    - SwarmPilot is an autonomous multi-drone control system based on the PX4 flight stack, designed for collaborative UAV operations with edge computing and real-time video transmission capabilities. Ideal for research and development in drone swarming, surveillance, and AI-driven navigation.
    
@@ -57,7 +65,7 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
    
    - <a href="https://github.com/Paschalis/SwarmPilot"><img src="https://img.shields.io/badge/Go_to_repository-SwarmPilot-purple?style=for-the-badge&logo=github" alt="SwarmPilot" style="border-radius: 15px;"></a> <img src="https://img.shields.io/badge/In Progress-IN?style=for-the-badge&label=status%20&color=green&logoColor=white&labelColor=black" alt="status"> [<img src="https://img.shields.io/github/stars/Paschalis/SwarmPilot?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/SwarmPilot)
 
-4. **Servo-Based Antenna Alignment for Video Transmission**
+5. **Servo-Based Antenna Alignment for Video Transmission**
 
    - A system to optimize Wi-Fi signal strength for video transmission by rotating a directional antenna using a servo motor. Supports Raspberry Pi Zero 2 W and Radxa Zero 3W with GPIO libraries (wiringPi for Raspberry Pi and libgpiod for Radxa). Ideal for UAV video streaming, it ensures automatic antenna alignment with the strongest signal.
    
@@ -65,7 +73,7 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
    
    - <a href="https://github.com/Paschalis/servo-antenna-align"><img src="https://img.shields.io/badge/Go_to_repository-servo_antenna_align-purple?style=for-the-badge&logo=github" alt="SwarmPilot" style="border-radius: 15px;"></a> <img src="https://img.shields.io/badge/In Progress-IN?style=for-the-badge&label=status%20&color=green&logoColor=white&labelColor=black" alt="status"> [<img src="https://img.shields.io/github/stars/Paschalis/SwarmPilot?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/servo-antenna-align)
 
-5. **LaTeX Business Cards: Stylish & Customizable Templates** 
+6. **LaTeX Business Cards: Stylish & Customizable Templates** 
 
    - A collection of customizable LaTeX templates for creating professional and themed business cards, including support for QR codes, icons, and various layouts.  
    
@@ -73,7 +81,7 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
    
    - <a href="https://github.com/Paschalis/latex-business-cards"><img src="https://img.shields.io/badge/Go_to_repository-latex_business_cards -purple?style=for-the-badge&logo=github" alt="LaTeX Business Cards Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/latex-business-cards ?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/latex-business-cards)
   
-6. **Design to PCB** 
+7. **Design to PCB** 
 
    - A showcase of custom PCB designs and footprints, featuring KiCad schematics and PCB layouts initially designed with CAD modeling, along with unique footprints derived from Inkscape illustrations, converted for KiCad use.
    
@@ -82,7 +90,7 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
    - <a href="https://github.com/Paschalis/Design2PCB"><img src="https://img.shields.io/badge/Go_to_repository-Design_to_PCB-purple?style=for-the-badge&logo=github" alt="Design to PCB Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/Design2PCB?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/Design2PCB)
   
 
-7. **Morse Code Converter**
+8. **Morse Code Converter**
 
    - A terminal-based Morse code converter tool for PC, implemented in both C and C++. This repository serves as a reference implementation for a similar project targeting microcontrollers, the **"MCU Morse Code Decoder"**. 
    
@@ -90,7 +98,7 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
    
    - <a href="https://github.com/Paschalis/Morse-Code-Converter"><img src="https://img.shields.io/badge/Go_to_repository-Morse_Code_Converter-purple?style=for-the-badge&logo=github" alt="Morse Code Converter Repository" style="border-radius: 15px;"></a> [<img src="https://img.shields.io/github/stars/Paschalis/Morse-Code-Converter?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/Morse-Code-Converter)
 
-8. **MCU Morse Code Decoder**
+9. **MCU Morse Code Decoder**
    
    - In the demanding environment of a helicopter, the MCU Morse Code Decoder captures audio signals from an ADF receiver via ADC, accurately decodes Morse code patterns, and displays the results alongside dots and dashes on an LCD 2004 display. 
    
