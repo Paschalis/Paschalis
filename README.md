@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paschalis</h1>
 
-<h3 align="center">Bachelor's degree in Computer Science | Master's student in Electrical Engineering</h3>
+<h3 align="center">Bachelor's degree in Computer Science | Master's degree in Electrical Engineering</h3>
 <p align="center">
 I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <strong>Openshift</strong>
 </p>
