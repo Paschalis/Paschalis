@@ -4,7 +4,7 @@
 <p align="center">
 I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <strong>Openshift</strong>
 </p>
-<p align="center">
+<!-- <p align="center">
     <a href="https://www.linkedin.com/in/paschalis-moschogiannis-38433655/">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" width="100">
     </a>
@@ -12,7 +12,7 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
     <a href="https://paschalis.github.io/paschalis-site/" target="_blank">
         <img src="https://img.shields.io/badge/Visit%20My%20Website-97cd3e?style=flat-square&logo=link&logoColor=white" alt="Visit My Website" width="150">
     </a>
-</p>
+</p> -->
 
 <h3 align="center">Support:</h3>
 <p align="center">
