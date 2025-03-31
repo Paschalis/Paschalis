@@ -54,7 +54,7 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
    
    - **Tools used:** KiCad, Fusion 360, SolidWorks
    
-   - <a href="https://github.com/TeodoraMiu/UAV-TelemetryLink"><img src="https://img.shields.io/badge/Go_to_repository-UAV_Telemetry_Link-purple?style=for-the-badge&logo=github" alt="UAV-TelemetryLink" style="border-radius: 15px;"></a> <img src="https://img.shields.io/badge/In Progress-IN?style=for-the-badge&label=status%20&color=green&logoColor=white&labelColor=black" alt="status"> [<img src="https://img.shields.io/github/stars/TeodoraMiu/UAV-TelemetryLink?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/TeodoraMiu/UAV-TelemetryLink)
+   - <a href="https://github.com/Paschalis/UAV-TelemetryLink"><img src="https://img.shields.io/badge/Go_to_repository-UAV_Telemetry_Link-purple?style=for-the-badge&logo=github" alt="UAV-TelemetryLink" style="border-radius: 15px;"></a> <img src="https://img.shields.io/badge/In Progress-IN?style=for-the-badge&label=status%20&color=green&logoColor=white&labelColor=black" alt="status"> [<img src="https://img.shields.io/github/stars/Paschalis/UAV-TelemetryLink?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/UAV-TelemetryLink)
 
 3. **FC Plus Sensor Module: Enhancing UAV Telemetry, Navigation, and Safety**
 
