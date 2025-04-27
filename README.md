@@ -21,7 +21,6 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
   </a>
 </p>
 
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
@@ -64,6 +63,14 @@ I’m currently learning <strong>CCNA</strong>, <strong>Kubernetes</strong>, <st
    
    - <a href="https://github.com/Paschalis/fc-plus-sensor-module"><img src="https://img.shields.io/badge/Go_to_repository-fc_plus_sensor_module-purple?style=for-the-badge&logo=github" alt="FC Plus Sensor Module" style="border-radius: 15px;"></a> <img src="https://img.shields.io/badge/In Progress-IN?style=for-the-badge&label=status%20&color=green&logoColor=white&labelColor=black" alt="status"> [<img src="https://img.shields.io/github/stars/Paschalis/fc-plus-sensor-module?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/fc-plus-sensor-module)
 
+3. **ESP32 UAV Telemetry Monitor**
+
+   - Wireless MAVLink Telemetry and OTA Update Monitor for UAVs using ESP32 with touchscreen interface and web-based firmware updates. Displays flight status in real time and supports seamless QGroundControl or MAVProxy connections. 
+   
+   - **Tools used:** LVGL, C++, KiCad, Fusion 360, SolidWorks
+   
+   - <a href="https://github.com/Paschalis/esp32-uav-telemetry-monitor"><img src="https://img.shields.io/badge/Go_to_repository-esp32_uav_telemetry_monitor-purple?style=for-the-badge&logo=github" alt="esp32-uav-telemetry-monitor" style="border-radius: 15px;"></a>  [<img src="https://img.shields.io/github/stars/Paschalis/esp32-uav-telemetry-monitor?style=for-the-badge&label=Stars%20&color=yellow&logo=github&logoColor=white&labelColor=black" alt="GitHub stars">](https://github.com/Paschalis/esp32-uav-telemetry-monitor)
+   
 4. **SwarmPilot: Surveillance UAV Swarm System with Edge AI**
 
    - SwarmPilot is an autonomous multi-drone control system based on the PX4 flight stack, designed for collaborative UAV operations with edge computing and real-time video transmission capabilities. Ideal for research and development in drone swarming, surveillance, and AI-driven navigation.
