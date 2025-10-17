@@ -137,7 +137,7 @@ I’m currently learning <strong>RHCSA</strong>, <strong>PX4</strong>, <strong>R
 
 <ol style="line-height: 2;">
    <li><details>
-   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">Sunrise-Sunset Automatic Dimmer</strong></summary>
+   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">Sunrise-Sunset Automatic Dimmer (ATmega328P)</strong></summary>
 
    - Description: This system allows for precise dimming control through an IRF740 Power MOSFET, driven by user-configurable timers and a 4n35 optocoupler for seamless sunrise and sunset simulation, optimizing lighting conditions in poultry farms.
    
@@ -157,7 +157,7 @@ I’m currently learning <strong>RHCSA</strong>, <strong>PX4</strong>, <strong>R
    
    </details></li>
    <li><details>
-   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">Hardware Login Key</strong></summary>
+   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">Hardware Login Key (ATtiny85)</strong></summary>
    
    - Description: This project provides a simple solution for securely logging into a system or website using a hardware key. By pressing a physical button connected to an ATtiny85 microcontroller, users can automate the login process, reducing the risk of password exposure.
    
@@ -185,7 +185,7 @@ I’m currently learning <strong>RHCSA</strong>, <strong>PX4</strong>, <strong>R
    
    </details></li>
    <li><details>
-   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">Feline Watchdog: Missing Cat Alert System</strong></summary>
+   <summary><strong><span style="background: #4caf50; color: white; padding: 3px 10px; border-radius: 15px;">Feline Watchdog: Missing Cat Alert System (ESP32)</strong></summary>
    
    - An ESP32-based system to alert you when your cat goes missing. Monitors Wi-Fi connection between your cat's collar-mounted ESP32 device and an Embedded System. Notifications sent to your iOS or Android device using ntfy and Docker. Peace of mind for cat owners.
    
