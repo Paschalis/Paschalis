@@ -342,8 +342,7 @@ I’m currently learning <strong>RHCSA</strong>, <strong>PX4</strong>, <strong>R
 ![GitHub Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
 <p align="center">
-  <img src="./profile/pin-uav.svg" />
-  <img src="./profile/pin-login.svg" />
+   <a href="https://github.com/Paschalis/Hardware-Login-Key"><img src="./profile/pin-login.svg" alt="HW key"></a>
 </p>
 
 <!-- <p align="center">
