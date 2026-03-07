@@ -19,7 +19,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=Paschalis&show_icons=true
+          options: username=Paschalis&show_icons=true&include_all_commits=true&count_private=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -33,8 +33,8 @@ jobs:
 
       - name: Commit cards
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "Paschalis"
+          git config user.email "paschalis@users.noreply.github.com"
           git add profile/*.svg
           git commit -m "Update README cards" || exit 0
           git push
