@@ -341,12 +341,15 @@ I’m currently learning <strong>RHCSA</strong>, <strong>PX4</strong>, <strong>R
 
 ![GitHub Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
-
 <p align="center">
+  <img src="./profile/pin-uav.svg" />
+  <img src="./profile/pin-login.svg" />
+</p>
+
+<!-- <p align="center">
   <a href="https://github-readme-stats.vercel.app/api?username=Paschalis&show_icons=true&hide_title=true"><img src="https://github-readme-stats.vercel.app/api?username=Paschalis&show_icons=true&hide_title=true" alt="GitHub Stats"></a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Paschalis&layout=compact&hide=html,css"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paschalis&layout=compact&hide=html,css" alt="Top Languages"></a>
-
-</p>
+</p> -->
 
 <h3 align="left">Support:</h3>
 <p>
